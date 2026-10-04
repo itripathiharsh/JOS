@@ -1,0 +1,53 @@
+# Environment & Secrets (NEVER COMMIT)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python Runtimes & Caches
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node & Frontend Build Artifacts
+node_modules/
+dist/
+.vite/
+
+# Temporary Directories & Workspace Caches
+.cache/
+tmp/
+temp/
+logs/
+*.log
+
+# Storage & Private User Data
+storage/backups/
+storage/browser_sessions/
+storage/screenshots/
+storage/documents/*
+!storage/documents/.gitkeep
+*.sql
+*.dump
+
+# Temporary Scratch & Verification Scripts
+scratch/
+verify_step*.py
+
+# Intermediate Engineering Phase Reports
+STEP13_AUDIT_REPORT.md
+STEP14_SECURITY_AUDIT_REPORT.md
+
+# Test Suites (excluded per user request)
+backend/tests/
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
