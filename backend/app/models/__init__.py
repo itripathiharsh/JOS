@@ -17,6 +17,13 @@ from app.models.decision import ApplicationDecision
 from app.models.preparation import ApplicationPreparation
 from app.models.execution import ApplicationExecution
 from app.models.automation import AutomationTask, ApplicationApproval, AutomationSettings
+from app.models.government import (
+    GovernmentSource,
+    GovernmentVacancy,
+    GovernmentDiscoveryRun,
+    GovernmentChangeEvent,
+    GovernmentUnresolvedTarget,
+)
 
 __all__ = [
     "Base",
@@ -45,6 +52,11 @@ __all__ = [
     "AutomationTask",
     "ApplicationApproval",
     "AutomationSettings",
+    "GovernmentSource",
+    "GovernmentVacancy",
+    "GovernmentDiscoveryRun",
+    "GovernmentChangeEvent",
+    "GovernmentUnresolvedTarget",
 ]
 
 

@@ -126,6 +126,18 @@ class AutomationSchedulerService:
                 else:
                     skipped_count += 1
 
+            # Continuous Government Monitoring Queue
+            try:
+                from app.services.government.scheduler import GovernmentContinuousScheduler
+                gov_mon = GovernmentContinuousScheduler.enqueue_monitoring_tasks(db=db, batch_size=5)
+                if gov_mon.get("enqueued_task_ids"):
+                    enqueued_ids.extend(gov_mon["enqueued_task_ids"])
+                    if "GOV_SOURCE_CRAWL" not in enqueued_types:
+                        enqueued_types.append("GOV_SOURCE_CRAWL")
+                skipped_count += gov_mon.get("skipped_crawls", 0)
+            except Exception as mon_err:
+                logger.warning(f"Government continuous monitoring enqueue error: {mon_err}")
+
         # 2. Matching Automation (Bounded to top 10 un-evaluated canonical jobs)
         if settings.matching_enabled:
             # Canonical jobs missing MatchResult

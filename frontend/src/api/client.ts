@@ -1045,6 +1045,78 @@ export const api = {
   getApplicationSubmissionApproval: (applicationId: string) => request<ApplicationApprovalResponse | null>(
     `/api/applications/${applicationId}/approval`
   ),
+
+  // Government Job Source Discovery & Continuous Monitoring Layer
+  getGovernmentCoverage: () => request<GovernmentCoverageResponse>('/api/government/coverage'),
+  getGovernmentSources: (params?: { state?: string; status?: string; limit?: number; skip?: number }) => {
+    const query = new URLSearchParams();
+    if (params?.state) query.set('state', params.state);
+    if (params?.status && params.status !== 'all') query.set('status', params.status);
+    if (params?.limit !== undefined) query.set('limit', params.limit.toString());
+    if (params?.skip !== undefined) query.set('skip', params.skip.toString());
+    const qs = query.toString();
+    return request<GovernmentSourceListResponse>(`/api/government/sources${qs ? `?${qs}` : ''}`);
+  },
+  getGovernmentVacancies: (params?: { state?: string; is_contractual?: boolean; limit?: number; skip?: number }) => {
+    const query = new URLSearchParams();
+    if (params?.state) query.set('state', params.state);
+    if (params?.is_contractual !== undefined) query.set('is_contractual', params.is_contractual.toString());
+    if (params?.limit !== undefined) query.set('limit', params.limit.toString());
+    if (params?.skip !== undefined) query.set('skip', params.skip.toString());
+    const qs = query.toString();
+    return request<GovernmentVacancyListResponse>(`/api/government/vacancies${qs ? `?${qs}` : ''}`);
+  },
+  seedGovernmentSources: () => request<{ message: string; seeded_count: number }>('/api/government/sources/seed', {
+    method: 'POST',
+  }),
+  triggerGovernmentDiscovery: (payload: { scope?: string; state_filter?: string; max_search_queries?: number }) => request<any>(
+    '/api/government/sources/discover',
+    {
+      method: 'POST',
+      body: JSON.stringify(payload),
+    }
+  ),
+  triggerGovernmentCrawl: (payload: { batch_size?: number; force_recheck?: boolean; state_filter?: string }) => request<any>(
+    '/api/government/crawl-all',
+    {
+      method: 'POST',
+      body: JSON.stringify(payload),
+    }
+  ),
+  getGovernmentMonitoringStats: () => request<GovernmentMonitoringStatsResponse>('/api/government/monitoring/stats'),
+  triggerGovernmentMonitoringTick: (batchSize = 20) => request<GovernmentMonitoringTickResponse>(
+    `/api/government/monitoring/tick?batch_size=${batchSize}`,
+    { method: 'POST' }
+  ),
+  recheckGovernmentDeadlines: () => request<Record<string, number>>('/api/government/deadlines/recheck', {
+    method: 'POST',
+  }),
+  getGovernmentChanges: (params?: { limit?: number; change_type?: string; source_id?: string }) => {
+    const query = new URLSearchParams();
+    if (params?.limit !== undefined) query.set('limit', params.limit.toString());
+    if (params?.change_type) query.set('change_type', params.change_type);
+    if (params?.source_id) query.set('source_id', params.source_id);
+    const qs = query.toString();
+    return request<GovernmentChangeEventItem[]>(`/api/government/changes${qs ? `?${qs}` : ''}`);
+  },
+  getGovernmentUniverseStats: () => request<GovernmentUniverseStatsResponse>('/api/government/universe/stats'),
+  triggerGovernmentUniverseMission: (payload?: { max_passes?: number; run_search?: boolean; batch_size?: number }) => request<GovernmentUniverseMissionResponse>(
+    '/api/government/universe/execute',
+    {
+      method: 'POST',
+      body: JSON.stringify(payload || {}),
+    }
+  ),
+  getGovernmentUnresolvedTargets: (params?: { limit?: number; skip?: number; target_type?: string; state?: string }) => {
+    const query = new URLSearchParams();
+    if (params?.limit !== undefined) query.set('limit', params.limit.toString());
+    if (params?.skip !== undefined) query.set('skip', params.skip.toString());
+    if (params?.target_type) query.set('target_type', params.target_type);
+    if (params?.state) query.set('state', params.state);
+    const qs = query.toString();
+    return request<GovernmentUnresolvedTargetListResponse>(`/api/government/unresolved${qs ? `?${qs}` : ''}`);
+  },
+  getGovernmentSourcesHierarchy: () => request<{ total_parents: number; hierarchy: any[] }>('/api/government/sources/hierarchy'),
 };
 
 export interface ApplicationExecutionItem {
@@ -1556,6 +1628,235 @@ export interface SchedulerTickResult {
   task_types_enqueued: string[];
   enqueued_task_ids: string[];
 }
+
+export interface StateCoverageItem {
+  state: string;
+  is_ut: boolean;
+  sources_count: number;
+  active_sources: number;
+  vacancies_count: number;
+  status: 'COVERED' | 'MINIMAL' | 'UNEXPLORED' | string;
+}
+
+export interface SectorCoverageItem {
+  sector: string;
+  sources_count: number;
+  vacancies_count: number;
+}
+
+export interface GovernmentCoverageResponse {
+  total_sources_discovered: number;
+  verified_sources: number;
+  active_sources: number;
+  sources_checked_today: number;
+  sources_never_checked: number;
+  sources_requiring_manual_access: number;
+  new_sources_discovered_recent: number;
+  new_vacancies_discovered_recent: number;
+  updated_vacancies_recent: number;
+  expired_vacancies: number;
+  central_government_sources: number;
+  state_government_sources: number;
+  union_territory_sources: number;
+  psu_sources: number;
+  research_institute_sources: number;
+  university_sources: number;
+  regulator_sources: number;
+  healthcare_sources: number;
+  district_municipal_sources: number;
+  other_sources: number;
+  states_coverage: StateCoverageItem[];
+  sectors_coverage: SectorCoverageItem[];
+}
+
+export interface GovernmentSourceItem {
+  id: string;
+  organisation_name: string;
+  organisation_type: string;
+  government_level: string;
+  state?: string | null;
+  city?: string | null;
+  official_domain: string;
+  career_url?: string | null;
+  recruitment_url?: string | null;
+  vacancy_url?: string | null;
+  notification_url?: string | null;
+  source_type: string;
+  source_status: 'DISCOVERED' | 'VERIFIED' | 'ACTIVE' | 'TEMPORARILY_UNAVAILABLE' | 'BLOCKED' | 'DEAD' | 'DUPLICATE' | 'REQUIRES_MANUAL_ACCESS' | string;
+  discovery_method: string;
+  discovered_from?: string | null;
+  discovered_at: string;
+  last_seen: string;
+  last_checked?: string | null;
+  last_success?: string | null;
+  crawl_status: string;
+  failure_count: number;
+  vacancies_found: number;
+  confidence: number;
+  relevance_score: number;
+
+  // Continuous Monitoring & Scheduling Fields
+  crawl_interval_minutes?: number;
+  next_crawl_at?: string | null;
+  last_crawled_at?: string | null;
+  last_successful_crawl_at?: string | null;
+  last_change_detected_at?: string | null;
+  crawl_count?: number;
+  successful_crawl_count?: number;
+  failed_crawl_count?: number;
+  consecutive_failures?: number;
+  change_frequency_category?: string;
+  is_locked?: boolean;
+}
+
+export interface GovernmentSourceListResponse {
+  total: number;
+  items: GovernmentSourceItem[];
+}
+
+export interface GovernmentVacancyItem {
+  id: string;
+  job_id: string;
+  source_id?: string | null;
+  organisation_name?: string | null;
+  title?: string | null;
+  government_level: string;
+  organisation_type: string;
+  state?: string | null;
+  department?: string | null;
+  ministry?: string | null;
+  scheme_or_project?: string | null;
+  employment_type: string;
+  contract_duration?: string | null;
+  pay_scale?: string | null;
+  number_of_positions?: number | null;
+  age_limit?: string | null;
+  selection_process?: string | null;
+  official_notification_url?: string | null;
+  official_application_url?: string | null;
+  application_mode: string;
+  application_email?: string | null;
+  pdf_url?: string | null;
+  pdf_sha256?: string | null;
+  extraction_status: string;
+  change_type: string;
+  corrigendum_details?: string | null;
+
+  // Freshness & Deadline Protection Fields
+  published_at?: string | null;
+  application_deadline?: string | null;
+  deadline_status?: string;
+  last_verified_at?: string | null;
+
+  created_at: string;
+  updated_at: string;
+  job_title?: string | null;
+  job_company?: string | null;
+  job_location?: string | null;
+  match_score?: number | null;
+  fit_category?: string | null;
+  decision?: string | null;
+}
+
+export interface GovernmentVacancyListResponse {
+  total: number;
+  items: GovernmentVacancyItem[];
+}
+
+export interface GovernmentChangeEventItem {
+  id: string;
+  source_id: string;
+  vacancy_id?: string | null;
+  url: string;
+  document_type: string;
+  previous_hash?: string | null;
+  new_hash?: string | null;
+  change_type: string;
+  change_summary?: string | null;
+  detected_at: string;
+}
+
+export interface GovernmentMonitoringStatsResponse {
+  total_registered_sources: number;
+  sources_with_scheduled_crawl: number;
+  sources_never_crawled: number;
+  sources_currently_due: number;
+  sources_currently_overdue: number;
+  sources_crawling: number;
+  sources_successfully_crawled_today: number;
+  sources_failed_today: number;
+  sources_blocked: number;
+  sources_requiring_manual_access: number;
+  new_sources_discovered_today: number;
+  new_vacancies_today: number;
+  updated_vacancies_today: number;
+  corrigenda_count: number;
+  deadline_extensions_count: number;
+  expired_vacancies_count: number;
+  deadline_lt_24h_count: number;
+  deadline_lt_3d_count: number;
+  sources_within_freshness_sla: number;
+  sources_outside_freshness_sla: number;
+  oldest_overdue_source?: string | null;
+  last_global_crawl?: string | null;
+  next_scheduled_crawl?: string | null;
+  discovery_engine_last_run?: string | null;
+  next_global_discovery?: string | null;
+}
+
+export interface GovernmentMonitoringTickResponse {
+  due_sources_count: number;
+  enqueued_crawls: number;
+  skipped_crawls: number;
+  discovery_enqueued: boolean;
+  enqueued_task_ids: string[];
+}
+
+export interface GovernmentUnresolvedTargetItem {
+  id: string;
+  target_name: string;
+  target_type: string;
+  state?: string | null;
+  district?: string | null;
+  reason: string;
+  attempted_queries?: string | null;
+  attempted_domains?: string | null;
+  discovery_status: string;
+  attempts_count: number;
+  last_attempted_at: string;
+  retry_at?: string | null;
+  resolved_source_id?: string | null;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface GovernmentUnresolvedTargetListResponse {
+  total: number;
+  items: GovernmentUnresolvedTargetItem[];
+}
+
+export interface GovernmentUniverseStatsResponse {
+  total_raw_targets: number;
+  total_deduplicated_targets: number;
+  target_counts_by_type: Record<string, number>;
+  target_counts_by_phase: Record<string, number>;
+  verified_registered_sources: number;
+  unresolved_backlog_targets: number;
+  unresolved_by_type: Record<string, number>;
+}
+
+export interface GovernmentUniverseMissionResponse {
+  status: string;
+  passes_completed: number;
+  total_raw_targets: number;
+  total_deduplicated_targets: number;
+  verified_sources: number;
+  unresolved_backlog: number;
+  duration_seconds: number;
+  pass_results: Record<string, any>;
+  metrics: Record<string, any>;
+}
+
 
 
 

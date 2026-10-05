@@ -15,6 +15,7 @@ from sqlalchemy import desc
 from app.models.job import Job, Company, SourceStatus, SearchQuery
 from connectors.base import JobSource
 from connectors.remotive import RemotiveSource
+from connectors.government import GovernmentJobSource
 from connectors.models import NormalizedJob, IngestionStats
 from connectors.validation import validate_normalized_job
 from connectors.exceptions import SourceException
@@ -25,6 +26,7 @@ logger = logging.getLogger(__name__)
 # Registry of supported source connectors
 SOURCE_REGISTRY: Dict[str, JobSource] = {
     "remotive": RemotiveSource(),
+    "government": GovernmentJobSource(),
 }
 
 

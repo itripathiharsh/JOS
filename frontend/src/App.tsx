@@ -5,6 +5,7 @@ import { DashboardPage } from './pages/DashboardPage';
 import { JobsPage } from './pages/JobsPage';
 import { ApplicationsPage } from './pages/ApplicationsPage';
 import { ProfilePage } from './pages/ProfilePage';
+import { GovernmentPage } from './pages/GovernmentPage';
 import { SettingsPage } from './pages/SettingsPage';
 import { api } from './api/client';
 import type { HealthResponse } from './api/client';
@@ -59,6 +60,8 @@ export const App: React.FC = () => {
           {currentPage === 'applications' && <ApplicationsPage />}
 
           {currentPage === 'profile' && <ProfilePage />}
+
+          {currentPage === 'government' && <GovernmentPage />}
 
           {currentPage === 'settings' && <SettingsPage />}
         </div>

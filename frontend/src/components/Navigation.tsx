@@ -1,8 +1,8 @@
 import React from 'react';
-import { LayoutDashboard, Briefcase, FileText, User, Settings, Database, Activity } from 'lucide-react';
+import { LayoutDashboard, Briefcase, FileText, User, Settings, Database, Activity, Landmark } from 'lucide-react';
 import type { HealthResponse } from '../api/client';
 
-export type PageId = 'dashboard' | 'jobs' | 'applications' | 'profile' | 'settings';
+export type PageId = 'dashboard' | 'jobs' | 'applications' | 'profile' | 'government' | 'settings';
 
 interface NavigationProps {
   currentPage: PageId;
@@ -20,6 +20,7 @@ export const Navigation: React.FC<NavigationProps> = ({
   const navItems = [
     { id: 'dashboard' as PageId, label: 'Dashboard', icon: LayoutDashboard },
     { id: 'jobs' as PageId, label: 'Jobs', icon: Briefcase },
+    { id: 'government' as PageId, label: 'Government', icon: Landmark },
     { id: 'applications' as PageId, label: 'Applications', icon: FileText },
     { id: 'profile' as PageId, label: 'My Profile', icon: User },
     { id: 'settings' as PageId, label: 'Settings', icon: Settings },

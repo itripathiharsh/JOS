@@ -21,6 +21,7 @@ import {
   ChevronRight,
   FileCheck,
   Bot,
+  Landmark,
 } from 'lucide-react';
 import { api } from '../api/client';
 import type {
@@ -113,6 +114,13 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({ onNavigate }) => {
             Browse Jobs
           </button>
           <button
+            onClick={() => onNavigate('government')}
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded bg-slate-800 hover:bg-slate-700 text-xs font-medium text-slate-200 border border-slate-700 transition"
+          >
+            <Landmark className="w-3.5 h-3.5 text-emerald-400" />
+            Gov Discovery
+          </button>
+          <button
             onClick={() => onNavigate('applications')}
             className="flex items-center gap-1.5 px-3 py-1.5 rounded bg-slate-800 hover:bg-slate-700 text-xs font-medium text-slate-200 border border-slate-700 transition"
           >
@@ -162,6 +170,7 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({ onNavigate }) => {
               className="bg-slate-900 border border-slate-700 rounded px-2 py-1 text-slate-200 focus:outline-none focus:border-indigo-500"
             >
               <option value="all">All Sources</option>
+              <option value="government">Government & PSUs</option>
               <option value="remotive">Remotive</option>
               <option value="manual">Manual</option>
             </select>

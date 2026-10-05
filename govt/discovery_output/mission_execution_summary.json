@@ -1,0 +1,57 @@
+{
+  "mission_status": "completed",
+  "passes_completed": 10,
+  "total_raw_targets": 15636,
+  "total_deduplicated_targets": 2846,
+  "total_verified_sources": 2909,
+  "confidence_breakdown": {
+    "AUTHORITATIVE": 2907,
+    "GOVERNMENT_AFFILIATED": 2
+  },
+  "level_breakdown": {
+    "central": 329,
+    "district": 894,
+    "municipal": 38,
+    "state": 1640,
+    "ut": 8
+  },
+  "hierarchy": {
+    "apex_parents": 2847,
+    "linked_children": 62
+  },
+  "backlog_resolution": {
+    "total_targets_evaluated": 2594,
+    "resolved_targets": 2050,
+    "active_unresolved": 544,
+    "resolution_rate_percent": 79.03,
+    "by_status": {
+      "NOT_AN_ORGANISATION": 44,
+      "RESOLVED": 2050,
+      "UNRESOLVED_DOMAIN": 500
+    },
+    "by_type": {
+      "DISCOVERY_INSTRUCTION": 4,
+      "DISTRICT_TARGET": 150,
+      "HIRING_QUERY": 21,
+      "LOCAL_BODY_TARGET": 41,
+      "ORGANISATION": 716,
+      "RECRUITMENT_ENDPOINT_TARGET": 36,
+      "STATE_TARGET": 1626
+    }
+  },
+  "vacancies_discovered": 50,
+  "continuous_monitoring_scheduled": 2909,
+  "duration_seconds": 45.89,
+  "pass_results_keys": [
+    "pass_1_md_universe",
+    "pass_2_parent_child_expansion",
+    "pass_3_state_ut_coverage",
+    "pass_4_district_municipal_expansion",
+    "pass_5_recruitment_endpoints",
+    "pass_6_pdf_discovery_and_crawl",
+    "pass_7_search_engine_discovery",
+    "pass_8_recursive_feedback",
+    "pass_9_deduplication_and_matching",
+    "pass_10_continuous_monitoring_schedule"
+  ]
+}

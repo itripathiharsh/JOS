@@ -109,6 +109,14 @@ class AutomationWorkerService:
 
         if task_type == "DISCOVERY":
             cls._handle_discovery(db, task)
+        elif task_type in ("GOV_DISCOVERY", "GOV_SOURCE_DISCOVERY"):
+            cls._handle_gov_discovery(db, task)
+        elif task_type in ("GOV_CRAWL", "GOV_VACANCY_CRAWL", "GOV_SOURCE_CRAWL"):
+            cls._handle_gov_crawl(db, task)
+        elif task_type in ("GOV_DEADLINE_RECHECK", "GOV_VACANCY_RECHECK"):
+            cls._handle_gov_deadline_recheck(db, task)
+        elif task_type == "GOV_CHANGE_DETECTION":
+            cls._handle_gov_change_detection(db, task)
         elif task_type == "MATCHING":
             cls._handle_matching(db, task)
         elif task_type == "DECISION":
@@ -134,6 +142,16 @@ class AutomationWorkerService:
         """Executes automated job search and discovery using existing connectors."""
         try:
             source = task.payload.get("source", "remotive") if task.payload else "remotive"
+            if source == "government":
+                from app.services.government.engine import GovernmentDiscoveryEngine
+                crawl_res = GovernmentDiscoveryEngine.crawl_batch(db, batch_size=20)
+                AutomationQueueService.complete_task(
+                    db,
+                    task_id=task.id,
+                    result=crawl_res,
+                )
+                return
+
             dry_run = task.payload.get("dry_run", False) if task.payload else False
             run_summary = execute_discovery_run(
                 db=db,
@@ -159,6 +177,113 @@ class AutomationWorkerService:
                 task_id=task.id,
                 error_msg=f"Discovery failed: {err_str}",
                 is_transient=is_transient,
+            )
+
+    @classmethod
+    def _handle_gov_discovery(cls, db: Session, task: AutomationTask) -> None:
+        """Executes autonomous open-ended search engine discovery for new Indian government sources."""
+        try:
+            from app.services.government.engine import GovernmentDiscoveryEngine
+            scope = task.payload.get("scope", "ALL") if task.payload else "ALL"
+            state = task.payload.get("state") if task.payload else None
+            max_q = task.payload.get("max_queries", 15) if task.payload else 15
+            res = GovernmentDiscoveryEngine.discover_sources_open_ended(
+                db=db,
+                scope=scope,
+                state_filter=state,
+                max_queries=max_q
+            )
+            AutomationQueueService.complete_task(
+                db,
+                task_id=task.id,
+                result=res,
+            )
+        except Exception as e:
+            AutomationQueueService.fail_task(
+                db,
+                task_id=task.id,
+                error_msg=f"Government source discovery failed: {str(e)}",
+                is_transient=True,
+            )
+
+    @classmethod
+    def _handle_gov_crawl(cls, db: Session, task: AutomationTask) -> None:
+        """Crawls a specific government source or batch of due sources for vacancy announcements and PDFs."""
+        try:
+            from app.services.government.engine import GovernmentDiscoveryEngine
+            from app.models.government import GovernmentSource
+
+            payload = task.payload or {}
+            source_id = payload.get("source_id")
+
+            if source_id:
+                src = db.query(GovernmentSource).filter(GovernmentSource.id == source_id).first()
+                if not src:
+                    AutomationQueueService.fail_task(
+                        db,
+                        task_id=task.id,
+                        error_msg=f"Government source '{source_id}' not found.",
+                        is_transient=False,
+                    )
+                    return
+                res = GovernmentDiscoveryEngine.crawl_source(db, src)
+            else:
+                batch_size = payload.get("batch_size", 20)
+                res = GovernmentDiscoveryEngine.crawl_due_sources_batch(
+                    db=db,
+                    batch_size=batch_size
+                )
+
+            AutomationQueueService.complete_task(
+                db,
+                task_id=task.id,
+                result=res,
+            )
+        except Exception as e:
+            AutomationQueueService.fail_task(
+                db,
+                task_id=task.id,
+                error_msg=f"Government vacancy crawl failed: {str(e)}",
+                is_transient=True,
+            )
+
+    @classmethod
+    def _handle_gov_deadline_recheck(cls, db: Session, task: AutomationTask) -> None:
+        """Revalidates application deadlines across active vacancies and updates statuses."""
+        try:
+            from app.services.government.scheduler import GovernmentContinuousScheduler
+            stats = GovernmentContinuousScheduler.revalidate_vacancy_deadlines(db)
+            AutomationQueueService.complete_task(
+                db,
+                task_id=task.id,
+                result=stats,
+            )
+        except Exception as e:
+            AutomationQueueService.fail_task(
+                db,
+                task_id=task.id,
+                error_msg=f"Government deadline recheck failed: {str(e)}",
+                is_transient=True,
+            )
+
+    @classmethod
+    def _handle_gov_change_detection(cls, db: Session, task: AutomationTask) -> None:
+        """Checks for changes, extensions, and corrigenda across monitored sources."""
+        try:
+            from app.services.government.scheduler import GovernmentContinuousScheduler
+            stats = GovernmentContinuousScheduler.revalidate_vacancy_deadlines(db)
+            metrics = GovernmentContinuousScheduler.get_monitoring_metrics(db)
+            AutomationQueueService.complete_task(
+                db,
+                task_id=task.id,
+                result={"deadline_stats": stats, "metrics": metrics},
+            )
+        except Exception as e:
+            AutomationQueueService.fail_task(
+                db,
+                task_id=task.id,
+                error_msg=f"Government change detection failed: {str(e)}",
+                is_transient=True,
             )
 
     @classmethod

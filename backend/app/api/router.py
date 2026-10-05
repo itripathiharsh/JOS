@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from app.api.routes import health, dashboard, profile, jobs, applications, settings, matching, discovery, decisions, memory, automation
+from app.api.routes import health, dashboard, profile, jobs, applications, settings, matching, discovery, decisions, memory, automation, government
 
 api_router = APIRouter(prefix="/api")
 
@@ -8,6 +8,7 @@ api_router.include_router(dashboard.router, tags=["Dashboard"])
 api_router.include_router(profile.router, tags=["Profile"])
 api_router.include_router(jobs.router, tags=["Jobs"])
 api_router.include_router(discovery.router, tags=["Discovery"])
+api_router.include_router(government.router, tags=["Government Jobs & Discovery"])
 api_router.include_router(matching.router, tags=["Matching"])
 api_router.include_router(decisions.router, tags=["Decisions"])
 api_router.include_router(applications.router, tags=["Applications"])
