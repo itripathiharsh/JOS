@@ -57,7 +57,7 @@ if ($Foreground) {
     exit $LASTEXITCODE
 } else {
     Write-Host "`nLaunching Job Operating System Supervisor in background..." -ForegroundColor Green
-    $proc = Start-Process -FilePath $pythonExe -ArgumentList "`"$supervisorPy`"" -WorkingDirectory $workspaceRoot -WindowStyle Hidden -PassThru
+    $proc = Start-Process -FilePath $pythonExe -ArgumentList "`"$supervisorPy`"" -WorkingDirectory $workspaceRoot -WindowStyle Hidden -RedirectStandardOutput (Join-Path $logsDir "supervisor_stdout.log") -RedirectStandardError (Join-Path $logsDir "supervisor_stderr.log") -PassThru
     Write-Host "Supervisor launched (PID: $($proc.Id))." -ForegroundColor Gray
 
     # 3. Wait for Port Readiness

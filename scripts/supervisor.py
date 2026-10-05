@@ -47,6 +47,32 @@ if str(ROOT_DIR) not in sys.path:
 LOGS_DIR.mkdir(parents=True, exist_ok=True)
 TMP_DIR.mkdir(parents=True, exist_ok=True)
 
+# Safe Dual Logger: Always logs to supervisor.log, tolerates detached/hidden consoles
+class _SupervisorLogger:
+    def __init__(self, log_path: Path):
+        self.file = open(log_path, "a", encoding="utf-8", buffering=1)
+        self.console = sys.stdout if (sys.stdout and hasattr(sys.stdout, "write")) else None
+
+    def write(self, data):
+        self.file.write(data)
+        if self.console:
+            try:
+                self.console.write(data)
+            except Exception:
+                pass
+
+    def flush(self):
+        self.file.flush()
+        if self.console:
+            try:
+                self.console.flush()
+            except Exception:
+                pass
+
+_sup_logger = _SupervisorLogger(LOGS_DIR / "supervisor.log")
+sys.stdout = _sup_logger
+sys.stderr = _sup_logger
+
 _children: Dict[str, subprocess.Popen] = {}
 _stop_requested = False
 
@@ -133,12 +159,15 @@ def spawn_component(name: str, cmd: List[str], cwd: Path, port: int = None) -> s
     stdout_file = open(LOGS_DIR / f"{name}_stdout.log", "a", encoding="utf-8")
     stderr_file = open(LOGS_DIR / f"{name}_stderr.log", "a", encoding="utf-8")
 
+    flags = subprocess.CREATE_NEW_PROCESS_GROUP if sys.platform == "win32" else 0
+
     proc = subprocess.Popen(
         cmd,
         cwd=str(cwd),
         stdout=stdout_file,
         stderr=stderr_file,
-        env=os.environ.copy()
+        env=os.environ.copy(),
+        creationflags=flags
     )
     _children[name] = proc
     log(f"Started [{name}] (PID: {proc.pid})", "LAUNCH")
