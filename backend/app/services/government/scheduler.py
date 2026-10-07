@@ -88,6 +88,19 @@ class GovernmentContinuousScheduler:
         return updated_count
 
     @classmethod
+    def schedule_continuous_monitoring(cls, db: Session) -> Dict[str, Any]:
+        """
+        Schedules all registered sources for continuous monitoring with adaptive intervals.
+        """
+        scheduled = cls.initialize_monitoring_queue(db)
+        total = db.query(GovernmentSource).count()
+        return {
+            "status": "success",
+            "sources_scheduled": total,
+            "newly_scheduled": scheduled,
+        }
+
+    @classmethod
     def get_nearest_vacancy_deadline(cls, db: Session, source_id: str) -> Optional[datetime]:
         """Returns the earliest active/approaching deadline for vacancies under this source."""
         now = get_utc_now()

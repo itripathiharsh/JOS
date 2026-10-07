@@ -1,0 +1,4898 @@
+[
+  {
+    "id": "1438a921-3dc7-4c7b-907c-c549cb19dd85",
+    "target_name": "[ ] Phase 19 recruitment endpoint/PDF discovery completed.",
+    "target_type": "ORGANISATION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "19bdf054-31ac-45ce-9cb1-bf0676b14794",
+    "target_name": "`site:ac.in recruitment`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "22703123-b132-4019-9a0e-816347a7aa41",
+    "target_name": "`site:edu.in recruitment`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "252029a3-4683-46fe-bb5d-e76eda26f562",
+    "target_name": "Technical Consultant",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "28b5d462-fe0a-4a1b-b22b-d4fa80bd8035",
+    "target_name": "Machine Learning",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "30d79d6a-87d7-4aaf-a113-5dd83be17672",
+    "target_name": "Every municipal corporation",
+    "target_type": "LOCAL_BODY_TARGET",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "39304314-e666-4a8a-9184-9b4bb6d742bd",
+    "target_name": "[UGC Deemed Universities](https://deemed.ugc.ac.in/Home/ListOfDeemedToBeUniversity)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3ba3396e-38ce-4dc0-8a3c-e9c6a7531415",
+    "target_name": "Every District Rural Development Agency",
+    "target_type": "DISTRICT_TARGET",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3f1fa03d-7529-4859-bdf8-b11dcd18263b",
+    "target_name": "ICAR-Central Plantation Crops Research Institute (CPCRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "46a7cf84-7322-4251-8311-0204fa555125",
+    "target_name": "[Ministry of Earth Sciences organisations](https://moes.gov.in/about-us/about-our-Ministry)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d990372b-dac6-4607-acbf-9cbd1a1a7773",
+    "target_name": "API",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "57289e9d-07c1-4625-b6a8-915e75d0a4af",
+    "target_name": "ICAR-National Bureau of Agriculturally Important Micro-organisms (NBAIM)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "aa3d37c5-bf03-4c92-85d7-a3207bf374d0",
+    "target_name": "ICAR-Central Marine Fisheries Research Institute (CMFRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "aa7b47bd-3373-42c4-a9c8-23c66e64d66f",
+    "target_name": "Ministry of Earth Sciences - Organisations Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ac4f4f19-cc83-4145-bbe4-8691c0ef8c45",
+    "target_name": "ICAR-National Research Centre for Pomegranate (NRCP)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f7774f5e-e38b-439e-8856-9a27c9986d0c",
+    "target_name": "Central University of Andhra Pradesh",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "561c54d0-3d04-4a6f-990c-b59e2fe5d1c4",
+    "target_name": "[ICMR Institutes](https://www.icmr.gov.in/institutes)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5cf654b3-487f-47ec-8b06-967b7dcb0c27",
+    "target_name": "[ ] No fabricated or duplicate sources used to satisfy a numeric threshold.",
+    "target_type": "ORGANISATION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5de41be4-6d86-41a7-9165-abf063424451",
+    "target_name": "`\"government\" \"technical assistant\" India recruitment`",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "17a954a8-58fd-43e1-bece-54ab92b46e24",
+    "target_name": "BRIC - Biotechnology Research and Innovation Council",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b57a0982-168f-40a6-a2ea-0c2d2fd6149f",
+    "target_name": "NIT Srinagar",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b7124291-525a-4ed4-b1be-dd54206d7eef",
+    "target_name": "IIT Dharwad",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b7bbb4b3-ef39-4997-b544-e1036183649d",
+    "target_name": "NIT Manipur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6074585e-ab33-4145-bb15-9f8c1b9e523a",
+    "target_name": "IGOD State/UT District directory: official Government of India directory, hosted by NIC/MeitY; it lists state/UT district entry points and links to district websites. citeturn7view0",
+    "target_type": "DISCOVERY_INSTRUCTION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "61e2e122-83e4-4284-9d32-f60f48ac2f51",
+    "target_name": "Research Associate",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6fa2a429-958a-41d4-806e-83e26a2f997f",
+    "target_name": "`site:gov.in \"project associate\"`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "74bdff4f-e6a4-4bee-89d5-876a2a9cd03d",
+    "target_name": "ICAR official institution directories demonstrate the parent→institute→NRC→bureau→directorate expansion pattern that should be applied across other government ecosystems. citeturn0search0turn0search1",
+    "target_type": "DISCOVERY_INSTRUCTION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "78e2fb78-d8e0-4ae7-99b7-4eafb58efbd2",
+    "target_name": "[ ] Phase 16 state/UT source families expanded into concrete official organisations.",
+    "target_type": "ORGANISATION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7ee740d0-c9a4-405a-82c5-c379aa868fc0",
+    "target_name": "Software Engineer",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "04f7c72d-0dd4-452e-8ccf-18187bf962e8",
+    "target_name": "Central University of Bihar",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2f94a656-2962-4f3e-89f2-dbc45fcf19bc",
+    "target_name": "Archaeological Survey of India",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "312bf94d-970e-4eba-bd14-849b0a9d0ecc",
+    "target_name": "National Council for Teacher Education",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4bc20253-8501-40a3-bb4b-b28f3a136050",
+    "target_name": "Legal Metrology Department",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cf8c98af-496a-4bc7-95a4-36132f829811",
+    "target_name": "Indian Bureau of Mines (IBM)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8ab1e78d-379e-4c53-9203-9f9d09cfbb70",
+    "target_name": "[ICAR Institutions](https://icar.gov.in/en/institutions)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8b3c1e6f-ee94-4d66-938f-eaa50d01187a",
+    "target_name": "[ ] ≥10,000 only if the public government ecosystem actually yields that many distinct useful sources.",
+    "target_type": "ORGANISATION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8d4dfa40-2457-4697-be7c-023a72dea683",
+    "target_name": "`site:nic.in vacancy`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8e2986f9-1f73-4297-bd5b-4bb7da6ea92b",
+    "target_name": "Every development authority",
+    "target_type": "LOCAL_BODY_TARGET",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "097e33be-33bd-4b49-8a25-f556db543a66",
+    "target_name": "Advanced Research Centre International / ARCI",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4ccf51ec-0b5d-41bd-8bf5-06637b0ab44e",
+    "target_name": "National Institute of Labour Economics Research and Development",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4e2d069e-db37-42a7-b271-108358877c7c",
+    "target_name": "Mishra Dhatu Nigam Limited (MIDHANI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "579e65ce-d336-4166-9b7a-8fccbd56b0c3",
+    "target_name": "National Archives of India",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8f432d16-a1c0-4e18-880d-a82ba7e63f68",
+    "target_name": "`site:gov.in \"contract basis\"`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "987bdb46-9416-4bc8-8ab5-ce94bcae1592",
+    "target_name": "AI",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9a248968-b98b-4616-8b4d-ffb7cf605ff0",
+    "target_name": "`site:gov.in consultant`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a191b96d-5966-4b93-9a02-18e87a709d98",
+    "target_name": "`site:gov.in \"fixed term\"`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a49b7458-b0a0-4d78-b615-f559acdd22b6",
+    "target_name": "Artificial Intelligence",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ac3cb603-0dba-4491-acb2-2a075a946f5c",
+    "target_name": "Every municipal council / municipality",
+    "target_type": "LOCAL_BODY_TARGET",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b0ccb484-8e08-46d7-9dd0-248ef3dff286",
+    "target_name": "`\"government\" \"contractual\" India vacancy`",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b4591c96-7c87-4cd8-b914-af9109e561c3",
+    "target_name": "`\"government\" \"project associate\" India`",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "57ee3ad9-e5db-460b-b516-3f5872d043ac",
+    "target_name": "ICAR-National Institute of Agricultural Economics & Policy Research (NIAEPR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5dbabe28-9d87-4e44-a289-cb131b74cd35",
+    "target_name": "NLC India Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5ff2316f-df78-4b3e-8001-688f78687d66",
+    "target_name": "Sangeet Natak Akademi",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "60093837-48a8-4e64-bbd9-64c6c17b1f53",
+    "target_name": "Cochin Shipyard Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6047c7e5-be17-4ecd-9393-52933d7e1ce9",
+    "target_name": "Council of NITSER - NIT/IISER Recruitment Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "69ae8c69-dee1-4cb7-9050-a2bebe409128",
+    "target_name": "Indian Institute of Astrophysics (IIA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b8237da3-e9a6-43d4-ae4b-c0569f16779c",
+    "target_name": "[DST Autonomous S&T Institutions](https://dst.gov.in/autonomous-st-institution)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b982c485-4d0f-4028-9071-fd5a4730250d",
+    "target_name": "[Ministry of Education Central Universities](https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/AR_2023-24_en.pdf)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c47fbc99-c5d6-40fb-b6d2-7ab3957fffeb",
+    "target_name": "`\"government\" \"consultant\" India vacancy`",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cb1d9873-1f9d-4216-a3bb-396c31e427b9",
+    "target_name": "Data Engineering",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d3795608-11ea-4b4f-9e26-ffce951c731b",
+    "target_name": "`site:gov.in vacancy`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d3dfe783-67f5-42c9-afdd-2a8b036e68b3",
+    "target_name": "Backend",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d87a5b98-3a74-4c1f-8da0-51c7308c741f",
+    "target_name": "Every district administration / Collectorate in India",
+    "target_type": "DISTRICT_TARGET",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "13627bdd-b898-4a66-83b8-7299c261ecca",
+    "target_name": "DBT - Autonomous Institutes Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "90e31f40-0311-43b4-9e5e-24089e8298e5",
+    "target_name": "MoHFW - Institutes/Hospitals Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "dd70006e-f0a2-48f7-9b05-444f7480668d",
+    "target_name": "`site:gov.in \"inviting applications\"`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e01c289b-6f7b-46a9-81b5-dee29fc336c4",
+    "target_name": "[ ] All discovered sources enter the continuous monitoring queue.",
+    "target_type": "ORGANISATION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e07e00de-aa3a-498e-afd5-beed92209aff",
+    "target_name": "[ ] ≥1,000 unique legitimate employment sources discovered.",
+    "target_type": "ORGANISATION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e2d042b3-2164-4832-89f6-c7a53c4ee27c",
+    "target_name": "Every district-level mission / society / programme",
+    "target_type": "DISTRICT_TARGET",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e3fec82a-7db9-4b4b-a141-b1b0734d2f21",
+    "target_name": "`site:nic.in recruitment`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "eac20af0-e033-4d89-9804-4bbe9b2c0364",
+    "target_name": "Cloud",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "eaf3a8ac-4b5c-419d-972c-6053a628fc26",
+    "target_name": "`site:gov.in employment`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ecf9dd0f-d17c-44a3-a8b6-9593331de5d0",
+    "target_name": "Data Analyst",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f3ebdd90-5f6a-4c03-96df-c438e198349a",
+    "target_name": "Every District Health Society",
+    "target_type": "DISTRICT_TARGET",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f7bf9682-aa94-4749-9b96-99f04bf6ae1c",
+    "target_name": "Data Science",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f8661a62-e73f-4e56-b87f-a037707a4b44",
+    "target_name": "Every District Mineral Foundation",
+    "target_type": "DISTRICT_TARGET",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "faaaeedf-c773-44c0-9d18-d1b71309ffb9",
+    "target_name": "[CSIR Laboratories/Institutes](https://www.csir.res.in/en/csir-labs-unit)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fe48d2d3-21bc-4ba2-8001-680d44268b1b",
+    "target_name": "Project Manager",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "173d561c-b6fc-4610-8778-06df6b540632",
+    "target_name": "Central University of Chhattisgarh",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a350bd97-1206-4395-81d0-920a179600d3",
+    "target_name": "Translational Health Science and Technology Institute (THSTI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a35c86cc-2e07-46f0-a2dc-a522e2705275",
+    "target_name": "Wadia Institute of Himalayan Geology (WIHG)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a5cb6c13-c898-4ce6-98da-94c54ec2a1f0",
+    "target_name": "Indian Council of Historical Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a8c07c61-3137-49f3-932f-f9297c27d683",
+    "target_name": "National Career Service - Government Portal Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3919cf5e-b06a-4242-986a-56beb6dc17f6",
+    "target_name": "ICMR-Rajendra Memorial National Institute of Health Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b6e21144-bd7d-4371-885a-2915b122fd18",
+    "target_name": "AIIMS Jammu",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c6063e5e-4287-4756-aca4-e12e83ba2718",
+    "target_name": "Satish Dhawan Space Centre (SDSC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d95987c7-224b-425c-9907-c2df96024583",
+    "target_name": "Rail Vikas Nigam Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "dde25036-50c2-4cca-b09b-01fb25e7c35f",
+    "target_name": "`site:gov.in fellowship`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "defe0931-baae-4d32-91fd-963e7a0d2bb3",
+    "target_name": "UGC - University Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "62ea1e2a-5e88-4ef3-871c-028e031e43f9",
+    "target_name": "NITK Surathkal",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e3bf9317-8d87-45fb-b416-82841469b823",
+    "target_name": "UCO Bank",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e4f44cc5-efc9-48db-9cb6-a57a9a045c6b",
+    "target_name": "`site:gov.in \"walk-in interview\"`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "04bfabfe-d6ea-440b-a60f-e1fca0ea9f7e",
+    "target_name": "AIIMS Raebareli",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5e028658-5321-459b-85cf-fc3860c4b154",
+    "target_name": "ICAR-National Institute for Abiotic Stress Management (NIASM)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6135c252-5cc7-4b4f-8e62-b01277c3571d",
+    "target_name": "NIT Nagaland",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "614376ca-468e-4318-b291-1e6460245635",
+    "target_name": "Space Applications Centre (SAC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "63a67a88-6825-4e7e-aa4e-89f69663948b",
+    "target_name": "ICAR-Indian Institute of Maize Research (IIMR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "646315f0-5a90-4af6-8b98-706ece4780ea",
+    "target_name": "ICAR-National Rice Research Institute (NRRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "647cbf7e-7222-404c-bef1-c914ccd6c83e",
+    "target_name": "CSIR-Fourth Paradigm Institute (4PI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "66f272f8-8a83-468a-b331-5214408d8646",
+    "target_name": "IIT Jodhpur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c8dc32d2-3197-429a-afe2-520c3a1cda88",
+    "target_name": "`site:res.in recruitment`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f0a474c4-ceef-400c-897c-79a2137d9cd8",
+    "target_name": "Project Associate",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "febbb515-4fbe-4871-a382-cda4fb825515",
+    "target_name": "Government e-Marketplace (GeM)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6818d9d6-0438-4300-abea-9aff31eeae28",
+    "target_name": "Indian Institute of Information Technology Vadodara",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "69c6f29a-bac8-44d7-b908-8fc331800edf",
+    "target_name": "CSIR-Indian Institute of Integrative Medicine (IIIM)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6a24608c-a1b2-4f44-8f3b-c90083cd1a91",
+    "target_name": "Indian Association for the Cultivation of Science (IACS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6a886dac-d2b8-40a0-9609-75e98ad04b06",
+    "target_name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6a8c7276-6759-4cd1-95c4-c993d55b8571",
+    "target_name": "Visvesvaraya National Institute of Technology Nagpur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6cd4a196-e471-41b3-8ee9-9df59c066a71",
+    "target_name": "Central University of Telangana",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6cd53b59-29bb-4680-ae27-75aeefabe2f1",
+    "target_name": "Electronics and Radar Development Establishment (LRDE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "1889dbdd-16a7-4be1-997b-37d0893e14c4",
+    "target_name": "Birbal Sahni Institute of Palaeosciences",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "197811de-f593-4abd-9480-1167481cd5e3",
+    "target_name": "ICAR-National Research Centre on Equines (NRCE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "1ae9d9d2-d312-4cec-8f8c-d81d15d34a78",
+    "target_name": "ICMR-National Institute of Occupational Health Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "20889ac9-b659-4235-bdda-4b2109273e90",
+    "target_name": "Central University of Gujarat",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8b505fd8-2b26-456e-b7bf-e043281a752b",
+    "target_name": "Central University of Jammu",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "95cf72e8-4258-41c0-b4d1-e0e7c76bc28a",
+    "target_name": "Central University of Hyderabad",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "21b0132e-885b-468a-9cde-12a783d8d493",
+    "target_name": "ICAR-National Institute of Biotic Stresses Management (NIBSM)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "21f12b76-d56d-4165-9f32-cc3f779e5d42",
+    "target_name": "CSIR-National Geophysical Research Institute (NGRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "22736150-0724-4514-b4bb-7d411565a1f3",
+    "target_name": "ICMR-National Institute of Translational Virology and AIDS Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7596400d-bfb9-474f-92d4-482686180cb3",
+    "target_name": "National Institute of Urban Affairs",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "773f49e5-a51f-4852-9b2a-54858ba3bbc1",
+    "target_name": "Sardar Vallabhbhai National Institute of Technology Surat",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "24ec7203-b39f-4de6-bcb9-a7c93b4bab0c",
+    "target_name": "Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2964eae0-bee7-4043-ba90-2826d82c6290",
+    "target_name": "Technology Information, Forecasting and Assessment Council (TIFAC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2b6b1416-1198-484e-b7ae-c30d8c083a83",
+    "target_name": "Vikram Sarabhai Space Centre (VSSC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7786ef97-9e20-4450-84af-89e16aa64839",
+    "target_name": "Centre for Airborne Systems (CABS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "77e775e2-b0b6-47aa-a0a3-030c73595133",
+    "target_name": "ICAR-Directorate of Poultry Research (DPR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "786fb195-97d8-4084-9c75-2523768cc8eb",
+    "target_name": "Open Network for Digital Commerce (ONDC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "79d6d896-6582-4689-af37-fd230cdda741",
+    "target_name": "National Accreditation Board for Testing and Calibration Laboratories (NABL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7b22744b-1113-4ab0-89ee-1347ce6a7eb3",
+    "target_name": "All India Council for Technical Education (AICTE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7cda6831-f703-4ae2-a794-0337b384323d",
+    "target_name": "Rajiv Gandhi University",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "80f9cf6c-76f4-4678-929c-e7d7346334ea",
+    "target_name": "ICAR-Central Research Institute for Dryland Agriculture (CRIDA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "811ad4e1-1b73-4311-a40b-8abb42bc76ce",
+    "target_name": "ICAR-National Institute of Seed Science & Technology (NISST)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "823dbdd9-28a5-4c31-849d-bbcd4a38631f",
+    "target_name": "National Centre for Cell Science (NCCS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "82a8cc39-e84b-4b39-9178-5570fd2d4e66",
+    "target_name": "ICAR-Indian Institute of Millets Research (IIMR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "85cd7de0-ad22-48c4-8452-098f2ae0d15d",
+    "target_name": "Central Sanskrit University",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8a8543dd-ac4c-4662-a953-baa1d77f0b4e",
+    "target_name": "Central Tribal University of Andhra Pradesh",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8b8d2ebe-4745-4d84-9b38-966c9c65b3a6",
+    "target_name": "Bharat Immunologicals & Biologicals Corporation",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8ce1377a-58fa-4000-a7ab-8c74ec2e58ac",
+    "target_name": "National Centre for Medium Range Weather Forecasting (NCMRWF)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8d387c37-932f-41b6-bccc-245069b59ac6",
+    "target_name": "IIT Bhilai",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8e5110a0-82fb-4da9-97ef-43a6413e26c8",
+    "target_name": "Vigyan Prasar",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8e8401f8-ff30-416f-b3ed-1a5fc7859b6f",
+    "target_name": "ICMR-National Institute of Vector Control Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a39d56b6-ca71-4217-beb1-4497b1e403f0",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone VI",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b5ea3834-d731-405d-9a2c-8e14b646758d",
+    "target_name": "ICAR-National Research Centre on Seed Spices (NRCSS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "90676cba-e72d-4a4f-86af-e9e2890bafc8",
+    "target_name": "Indian Institute of Information Technology Pune",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "92315c3e-57d5-478b-9d0d-838cb325822c",
+    "target_name": "ICAR-Central Institute of Coldwater Fisheries Research (CICFRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "92cfaffe-80d1-4f93-8dd8-561c1d49a9d8",
+    "target_name": "NIT Durgapur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "92f05d76-9517-4a90-bb9f-2994725a28fa",
+    "target_name": "ICAR-Indian Institute of Soil and Water Conservation (IISWC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9681c466-1844-4133-b0ef-d7606bbdcf89",
+    "target_name": "ICMR-National Institute of Traditional Medicine",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "96c76cac-8fb3-4b7b-ab1d-aa7ed1214782",
+    "target_name": "National Atlas & Thematic Mapping Organisation (NATMO)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "96f25431-88f8-4cff-951d-15619a6c4ef7",
+    "target_name": "Ministry of Steel",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b6e09a49-a9ee-41df-8fb4-c6fce96ad81e",
+    "target_name": "National Council for Teacher Education (NCTE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c3855d0d-db14-496b-b698-c0d924177d01",
+    "target_name": "NIT Sikkim",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "99c5ddea-a56a-4ba3-86a1-6049918394fe",
+    "target_name": "ICAR-National Institute of Natural Fibre Engineering & Technology (NINFET)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9a0196a3-4ed7-473d-b41d-2a55d06fd1d6",
+    "target_name": "IIT Goa",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9b52f435-dfd8-4078-8823-48533e569a60",
+    "target_name": "ICAR-Central Arid Zone Research Institute (CAZRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9bc5ec84-d389-4e06-a905-94aeba2a48d9",
+    "target_name": "ICAR-Indian Institute of Horticultural Research (IIHR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9ccd3d8c-42e7-4f06-896d-1b9ae5f1c1ac",
+    "target_name": "National Innovation Foundation (NIF)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9dfc948c-9595-497c-a694-dbb51506f055",
+    "target_name": "Central Soil and Materials Research Station",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2d64a327-56d9-415f-b240-276c46800383",
+    "target_name": "ICAR-Indian Institute of Groundnut Research (IIGR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9e702cae-9404-42e5-b52e-432bbc4625da",
+    "target_name": "ICAR-Indian Institute of Vegetable Research (IIVR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9ea828d9-39af-4fa1-bc56-1893ca07f5a3",
+    "target_name": "ICAR-Indian Institute of Pulses Research (IIPR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9ee4ab2e-abb2-4446-86ae-2af93264b46b",
+    "target_name": "ICAR-National Soybean Research Institute (NSRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9f95f550-a9b0-418c-8f47-099eda14fb33",
+    "target_name": "Central Water and Power Research Station (CWPRS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a1dd7432-2568-4437-a671-0ee6fbe1d20e",
+    "target_name": "ICAR-National Bureau of Soil Survey and Land Use Planning (NBSSLUP)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a2bf1ec8-0bf2-4793-9bb0-f43aea65e8b8",
+    "target_name": "ICAR-Indian Grassland & Fodder Research Institute (IGFRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a2da549d-62d3-4c43-9079-00f1b410bcbb",
+    "target_name": "Central University of Jharkhand",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2d87f3cc-7cc0-4ee1-ab79-24c309ddcd62",
+    "target_name": "Physical Research Laboratory (PRL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a4a9f9ba-bf9b-427a-8d10-637ecb8555c7",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone IX",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a4c24491-a068-4714-851a-807ca46064dd",
+    "target_name": "National Financial Reporting Authority (NFRA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a6a92ba4-c8de-45b8-9462-ea954d74c9f2",
+    "target_name": "Shri Lal Bahadur Shastri National Sanskrit University",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a74b761c-1c4c-4762-87ed-70e7b9f15187",
+    "target_name": "IIT Tirupati",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a8255240-387e-4f96-ad8e-e75348b9cb27",
+    "target_name": "ICMR-National Institute of Research in Environmental Health",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a8eb7794-55ee-4ed4-a2f6-a73ee43f23cf",
+    "target_name": "ICAR-National Institute of Veterinary Epidemiology & Disease Informatics (NIVEDI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "30ee2e9b-b31b-454e-bc88-de1b37ff3ed6",
+    "target_name": "ICAR-Directorate of Knowledge Management in Agriculture (DKMA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3375a638-4839-40f7-a6b0-e5bee0eaba52",
+    "target_name": "Guru Ghasidas Vishwavidyalaya",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "34f30788-1184-46d7-ac32-9d1cfdc516da",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone I",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "bda2f480-c62f-41d7-92f3-a2f67b7c3bf4",
+    "target_name": "Bar Council of India",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b0fdb2f0-36e2-4543-94d3-0c6096416452",
+    "target_name": "Indian Institute of Information Technology Lucknow",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b118158f-bb22-4cd1-b1b9-12182e2c92e4",
+    "target_name": "Central University of Himachal Pradesh",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b1483792-6c2a-4206-9870-407dad74a414",
+    "target_name": "ICAR-National Research Centre for Grapes (NRCG)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b1763e1a-de90-40fa-9f88-387d7c571139",
+    "target_name": "ICAR-Central Tuber Crops Research Institute (CTCRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b1daa5af-8354-44f0-93b7-4757f3a07467",
+    "target_name": "ICAR-National Bureau of Plant Genetic Resources (NBPGR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b4396e0b-ff51-491a-821b-9569c965fcbd",
+    "target_name": "ICAR-Central Institute for Research on Goats (CIRG)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b456c14d-71bf-4d40-ab9f-8864c37ba510",
+    "target_name": "Airports Economic Regulatory Authority of India (AERA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "be6bfaff-3f1f-4fcb-a9ae-96c98c6e576e",
+    "target_name": "ICAR-National Research Institute for Integrated Pest Management (NRIIPM)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5bf9be6c-d038-429b-a0ff-cf7ee2a690b7",
+    "target_name": "AIIMS Rajkot",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a5b5c9ce-ac76-4393-88f6-952a162b59e3",
+    "target_name": "National Museum",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ac394475-a6f4-4a02-990e-4ac5e1a407b7",
+    "target_name": "National Consumer Disputes Redressal Commission (NCDRC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ae790701-915e-4bd4-8cf4-ecf7311b3aa1",
+    "target_name": "National Institute for Empowerment of Persons with Multiple Disabilities",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b232012d-c937-494f-92e5-66d81d6dcef6",
+    "target_name": "Defence Research Laboratory (DRL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b8c540b9-36d3-4b81-93b5-8742957ef463",
+    "target_name": "North-Eastern Hill University",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cca1f507-ab7d-46f0-ac9c-24c446dddf26",
+    "target_name": "Container Corporation of India",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "bf50236b-384c-486c-8296-2b07cde93964",
+    "target_name": "Indira Gandhi National Open University",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c2197c14-dc43-4647-aae9-d0635eb4e3e6",
+    "target_name": "Indian Institute of Geomagnetism (IIG)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d7165890-ae16-411c-8c5b-ed2a5cf6a40b",
+    "target_name": "National Institute for Locomotor Disabilities",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c311e821-1a40-430e-8470-9d4fb4c3e946",
+    "target_name": "Regional Centre for Biotechnology (RCB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c3220509-a5af-4ebf-a69f-bd607a7a39b9",
+    "target_name": "National Medical Commission (NMC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c35ef32b-4162-449d-849c-5d93e66ff579",
+    "target_name": "Petroleum and Natural Gas Regulatory Board (PNGRB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c3815ad6-006e-4b2e-967f-add41e952caf",
+    "target_name": "ICAR-National Institute of Animal Nutrition & Physiology (NIANP)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f4617881-7bbd-432e-841d-b10956806faa",
+    "target_name": "Indian Overseas Bank",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fabd9b51-bf9b-4553-9520-733d8e9ccfd8",
+    "target_name": "Central Bank of India",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c3d1e9b2-a1ed-4263-b24f-fe453d794b7a",
+    "target_name": "National Centre for Polar and Ocean Research (NCPOR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c49e9001-1590-4ae2-8217-acd536319794",
+    "target_name": "ICAR-Indian Institute of Rice Research (IIRR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "dcdb9bb7-c3a1-4ea4-b40d-c63dc67e6c07",
+    "target_name": "Bose Institute",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c5a97cfe-8e69-42a6-b8a7-18ebc093d32f",
+    "target_name": "National Commission for Minorities",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c685e9a3-895d-452d-ab21-486d9118aa40",
+    "target_name": "Central University of Tamil Nadu",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c85455ac-556e-415d-9c4e-e9b95794e3c0",
+    "target_name": "ICAR-Central Institute for Research on Buffaloes (CIRB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c949cfdc-a7a1-4fd6-b78a-776bf5ab6ecc",
+    "target_name": "Indian Vaccine Corporation",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c98d0b88-a412-49c6-8433-1edbeef24e9d",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone VIII",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c9f406ab-c269-4fcd-abb4-84a0fecc428c",
+    "target_name": "Indian Institute of Information Technology Design and Manufacturing Kancheepuram",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cd1a1777-f8f8-45a2-808c-144f64bf7ac9",
+    "target_name": "ICAR-National Research Centre on Pig (NRCP)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cd81fd5e-89f4-4a08-8d75-5f9e692836ee",
+    "target_name": "National Human Rights Commission (NHRC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cdebf4b7-7bb3-4bc4-8511-b5ae98b91787",
+    "target_name": "NIT Uttarakhand",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cecc4050-21ed-4261-998c-3c76893107dc",
+    "target_name": "Central University of Odisha",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d1173bae-915f-4b3e-97cf-61b972f565ca",
+    "target_name": "ICAR-Central Institute of Freshwater Aquaculture (CIFA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d5151537-2875-4f12-8486-6a063206f6be",
+    "target_name": "Indian Institute of Engineering Science and Technology Shibpur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d5ee0964-f861-48f2-a4cd-8162cbe606dd",
+    "target_name": "ICAR-Central Institute for Women in Agriculture (CIWA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d60f0bc4-04c7-4cba-8d6d-575825d18c4b",
+    "target_name": "ICAR-Central Institute for Research on Cattle (CIRC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d665e81c-e8fa-4282-9cd3-c6ac2a6cb0c6",
+    "target_name": "National Water Development Agency (NWDA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d670e6a0-0aa0-4174-9f50-63efa5fcac27",
+    "target_name": "Directorate General of Hydrocarbons",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "da5ae187-5b0f-45a4-9b71-f954e9f196d7",
+    "target_name": "ICAR-Central Island Agricultural Research Institute (CIARI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "db46063a-a820-4c3b-bbd2-efb2346691ea",
+    "target_name": "ICAR-Central Institute for Arid Horticulture (CIAH)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "dc577b45-d37e-4722-83c0-d24431ec16a9",
+    "target_name": "Indian National Centre for Ocean Information Services (INCOIS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e0c4a2b9-0150-4ff0-bfbe-714f801ae1a0",
+    "target_name": "ICAR-Indian Institute of Spices Research (IISR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e160d5ec-2faf-4e18-972b-9e3e8de44bfc",
+    "target_name": "ICMR-National Institute of Research in Tuberculosis",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e21c49ae-1668-4579-848f-5b05bb324c90",
+    "target_name": "ICAR-Central Agroforestry Research Institute (CAFRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e4c935ec-0212-4de6-a1d4-d70976549c92",
+    "target_name": "ICAR-Central Citrus Research Institute (CCRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e52e49bd-4652-4745-8a85-c199fc9c8bcf",
+    "target_name": "Central University of Kerala",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e5354883-2437-496e-9429-828b88650722",
+    "target_name": "ICAR-National Research Centre for Banana (NRCB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e7d5a4ad-9f9a-4599-b22a-b28f00cbc48f",
+    "target_name": "Indian National Science Academy",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e9a67a1c-dc72-49f5-857e-6b269f87de35",
+    "target_name": "ICMR-National Institute of Malaria Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "eab838a8-792b-492c-88af-15de0aa33c4d",
+    "target_name": "NIT Meghalaya",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "eaded33e-a613-410c-8799-42b18eaa359f",
+    "target_name": "ICAR-National Bureau of Agricultural Insect Resources (NBAIR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "eb527e11-05d4-4584-ac61-1e157558da98",
+    "target_name": "Central Electricity Regulatory Commission (CERC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ebe78ba3-c0b2-44b9-a480-318856317da6",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone X",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "218b971e-df22-40e7-8976-56b1400ab0f4",
+    "target_name": "Centre for Artificial Intelligence & Robotics (CAIR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "24dee9a2-f58b-44d0-897c-3d77e04923ad",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone VII",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "36d6def0-f563-44a1-b497-f0ecf5e7c6f1",
+    "target_name": "ISRO Telemetry Tracking & Command Network (ISTRAC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "36da5cb9-bb98-4dd4-b2b2-563dbd677d43",
+    "target_name": "ICAR-Indian Agricultural Statistics Research Institute (IASRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "36ee6699-1fe1-4e1b-bedb-64428825335e",
+    "target_name": "ICAR-Vivekananda Parvatiya Krishi Anusandhan Sansthan (VPKAS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "edeec692-9d2f-40e7-8a23-ceea474809ef",
+    "target_name": "Food Safety and Standards Authority of India (FSSAI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2947e7c9-32d2-4d24-bd54-e61f053b399d",
+    "target_name": "NMDC Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ef71b3a9-aec6-40dd-ab3d-70d3f747a7e4",
+    "target_name": "ICAR-Research Complex for NEH Region (RCNEH)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3ca5e89d-356b-472f-afb5-c0f816d4a131",
+    "target_name": "National Industrial Development Corporation",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4612d97a-fd4f-4446-b407-5ff8ab0052e6",
+    "target_name": "ICMR-National Institute for Research in Bacterial Infections",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f002c305-1551-4fa8-b7f9-1bbc0081152e",
+    "target_name": "National Centre for Earth Science Studies (NCESS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f0868b11-8bab-441d-88fd-a3528f41f91f",
+    "target_name": "Central University of Rajasthan",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f38af71c-57eb-417c-b956-754551240ac7",
+    "target_name": "Centre for Nano and Soft Matter Sciences (CeNS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4c9d16df-55a7-4973-8ce3-d6827961894e",
+    "target_name": "ICAR-National Bureau of Fish Genetic Resources (NBFGR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "51e82754-257e-4c16-9169-75230943f469",
+    "target_name": "ICAR-Central Institute of Agricultural Engineering (CIAE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "51f30fa8-eb12-4629-8d84-cdeabacf500d",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone II",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5f5e2fe2-5f77-4b06-bf86-0b3f58ed8cdc",
+    "target_name": "ICMR-National Institute for Research on Women's Health",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "667a6ca6-57a7-459c-a9b2-e63c30319951",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone XI",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6ec68c83-779d-4a09-b3aa-739178467eaa",
+    "target_name": "ICMR-Regional Medical Research Centre Gorakhpur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6fe8d376-f0e9-42bc-b5fd-0718b85344c8",
+    "target_name": "Centre of Innovative and Applied Bioprocessing (CIAB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "73d229b0-de39-45be-9bfc-a144ef865d05",
+    "target_name": "Defence Institute of High Altitude Research (DIHAR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f49dda0b-a738-4ee3-834b-461b5591bce2",
+    "target_name": "ICAR-Central Avian Research Institute (CARI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "74a08bb6-ca46-4d16-bb85-a048646bd847",
+    "target_name": "National Centre for Coastal Research (NCCR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7ab8e0af-e727-4c73-a2e8-a17cf7ec5efd",
+    "target_name": "Rajiv Gandhi Centre for Biotechnology (RGCB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7af07b22-3e08-48e2-a360-83a9fc970336",
+    "target_name": "ICAR-Indian Institute of Wheat & Barley Research (IIWBR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8c09b993-1250-451c-aa76-9a79bf8e2c77",
+    "target_name": "Department of Space",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8fd4ce68-d29a-4aab-a24f-e10bbcb5a25c",
+    "target_name": "Defence Electronics Research Laboratory (DLRL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9321e90d-910a-4197-b5c5-538cadf542c9",
+    "target_name": "Centre for DNA Fingerprinting and Diagnostics (CDFD)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9798a5bb-51fd-485d-9267-bb860f5116d0",
+    "target_name": "National Health Authority (NHA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9ba7aa22-f130-4943-a4ee-cfc1214f19ee",
+    "target_name": "National Board of Examinations in Medical Sciences",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9f8d6e0a-a7a3-4719-92f1-d9d1cbe3b38b",
+    "target_name": "Ministry of Personnel, Public Grievances & Pensions",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a3904463-64a6-4cdf-ba11-25235ba9b8ca",
+    "target_name": "ICAR-Central Soil Salinity Research Institute (CSSRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a660db86-9769-48c2-8dd5-55d4f64dcb69",
+    "target_name": "Ministry of Women & Child Development",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a72ebb60-9ccc-43a1-9634-5383524078b3",
+    "target_name": "Defence Institute of Advanced Technology (DIAT)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a7ad802e-1bf2-4372-a200-a7af8fa16aab",
+    "target_name": "Centre for Development of Imaging Technology",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a93354bf-a69f-48b1-b0a8-601e8f505fd3",
+    "target_name": "Ministry of Civil Aviation",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ac7c0519-1c66-422c-8550-1f2606467c16",
+    "target_name": "ICMR-National Institute for Research on Blood and Immune Disorders",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ac90134f-3aea-45bc-94c3-59144cb86ed7",
+    "target_name": "National Internet Exchange of India (NIXI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "adfe6802-189d-4224-a6b7-2f17049bd06d",
+    "target_name": "Ministry of Ports, Shipping & Waterways",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f55199cc-6c76-42ab-a46a-618e8dbaafa5",
+    "target_name": "Mahatma Gandhi Central University",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b1375657-4013-407c-8834-e2657450f0fc",
+    "target_name": "Ministry of Home Affairs",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b1ea7237-d66b-4182-8a54-2189a33fa266",
+    "target_name": "U R Rao Satellite Centre (URSC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b68fc271-ef20-4057-b1a3-926b58498f0f",
+    "target_name": "India Trade Promotion Organisation (ITPO)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "bafef54a-a672-4b3b-98c9-2794ea175d98",
+    "target_name": "ICAR-Central Coastal Agricultural Research Institute (CCARI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "bbbd394d-f8ba-4fc0-8040-663d501b1242",
+    "target_name": "Ministry of Development of North Eastern Region",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c092e47a-1b08-4f62-bf20-955e274b1b3e",
+    "target_name": "National Data Analytics Platform",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f5deb590-227c-48ce-a75e-8bddb451f9fc",
+    "target_name": "Invest India",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c3ff7a5b-dce7-434c-8ae4-c795d56280b9",
+    "target_name": "CSIR-Indian Institute of Toxicology Research (IITR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c6239974-14f7-43ea-9fa0-73154b7994f7",
+    "target_name": "National Board of Accreditation",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c989f653-ca9d-4049-95c7-3ff5e191edfe",
+    "target_name": "ICAR-Central Institute on Post-Harvest Engineering & Technology (CIPHET)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ca01a6a6-a678-4058-b8f0-65c2ca4db4d0",
+    "target_name": "Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f6079098-6a7d-4bbe-b921-cefb1a79fdd6",
+    "target_name": "ICMR-National JALMA Institute for Leprosy & Other Mycobacterial Diseases",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f68fcbe5-9ae6-4f0d-b2e8-96a64ed4fc66",
+    "target_name": "ICMR-Regional Medical Research Centre Sri Vijaya Puram",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f71a0462-0542-40b0-9e86-b4d4e0793566",
+    "target_name": "Indian Science Congress Association",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cb8b5869-96ac-4d48-bc76-0b1a68edf37c",
+    "target_name": "Ministry of Mines",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cbe31d2f-654a-4d5f-b0d1-798df00fdd0f",
+    "target_name": "Ministry of Consumer Affairs, Food & Public Distribution",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cda88e7f-b65f-4030-b11a-249f9c86ee2c",
+    "target_name": "Institute of Life Sciences (ILS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ce58c4da-b6a3-4e18-9492-2ad94677be0a",
+    "target_name": "ICAR-Directorate of Weed Research (DWR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ce5e0129-8c6d-4d90-8e87-3f23e3cc4926",
+    "target_name": "Ministry of Parliamentary Affairs",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f8fc4844-cdc5-4138-903e-1b692edcc67a",
+    "target_name": "National Sanskrit University",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fc467aa1-20c9-4f0f-b293-cfbc387a0748",
+    "target_name": "National Institute of Biomedical Genomics (NIBMG)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cf73334c-881b-484c-8c62-583b11185595",
+    "target_name": "ICAR-Central Institute of Brackishwater Aquaculture (CIBA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d087f03b-45d5-4c90-a06f-b08ee499b062",
+    "target_name": "Indian Institute of Remote Sensing (IIRS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fc9bab52-15d3-4922-854e-bbee128dcce1",
+    "target_name": "CSIR-National Institute of Data Science & AI (NIDSA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fe8634c7-b1ac-43a0-b21e-b6acd2dccd86",
+    "target_name": "National Institute of Immunology (NII)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "73cda315-e893-4dbb-9d18-f64853dcad9d",
+    "target_name": "National Gallery of Modern Art",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d4d0d5c3-c052-46d2-a8c4-295dacb47305",
+    "target_name": "Centre for e-Governance",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d53bddb1-ecb6-4e50-9b6d-273438f6132b",
+    "target_name": "ICAR-National Institute of Secondary Agriculture (NISA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d56484ee-828d-4ab8-bb6b-d94047c83b64",
+    "target_name": "ICAR-National Research Centre on Yak (NRCY)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d7671473-12fd-4a58-b7b7-a09e2af455b9",
+    "target_name": "Defence Geoinformatics Research Establishment (DGRE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d9243aac-691a-4230-8619-902fa98365c7",
+    "target_name": "Ministry of Food Processing Industries",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d976df26-d8b1-4e28-8f9b-13a5dcd03fc9",
+    "target_name": "India Semiconductor Mission",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d9995495-552a-41b0-bf4d-fc1d558fd19e",
+    "target_name": "Department of Scientific & Industrial Research (DSIR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "dde0c56f-915a-4870-8d14-503a65891357",
+    "target_name": "National Agri-Food Biotechnology Institute (NABI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "05fb4beb-bfdc-440c-a63a-6c0421b856bd",
+    "target_name": "Sahitya Akademi",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "dff155dc-c25e-4ddb-aedf-c4e6d714d3ef",
+    "target_name": "National Remote Sensing Centre (NRSC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e02b386c-5552-4fc1-85fe-52a1e75d2af6",
+    "target_name": "ICAR-Directorate of Medicinal and Aromatic Plants Research (DMAPR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e0ada8a4-17f6-4ac0-af7e-b3360c84d674",
+    "target_name": "ICAR-Central Institute of Temperate Horticulture (CITH)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e0c27e05-b136-4952-beca-e35ea2cffefc",
+    "target_name": "Ministry of Coal",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e2b2117d-5d12-49ca-b242-bb6267151549",
+    "target_name": "National Critical Information Infrastructure Protection Centre (NCIIPC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e5c7cec2-8e9f-432c-97d4-5eb9a029e773",
+    "target_name": "Ministry of Housing & Urban Affairs",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e69a96f3-6127-4f54-83b8-f040bd5ff79a",
+    "target_name": "Ministry of Heavy Industries",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "070d3214-c22b-495f-bc71-9d303f2df480",
+    "target_name": "Indian Railway Finance Corporation (IRFC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e6c75415-5bac-4a3b-acb5-7009883e05bf",
+    "target_name": "National Skill Development Agency",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e79c5e70-2e70-48a6-8672-eff24ab7c65c",
+    "target_name": "Research Centre Imarat (RCI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ea06d77f-a6d9-4483-9f09-25796b9bab5e",
+    "target_name": "DRDO Recruitment & Assessment Centre (RAC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "edb8f186-eda1-4ab4-aae6-73adf5c44d55",
+    "target_name": "Defence Electronics Applications Laboratory (DEAL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ee4ade6b-2b04-4d8c-a693-72b48174aa67",
+    "target_name": "Ministry of New & Renewable Energy",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ef199bf7-e3c7-4a0f-a6a4-fdb9a9678511",
+    "target_name": "Gas Turbine Research Establishment (GTRE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ef8f3812-d982-43ac-8e49-26a8eb5e115a",
+    "target_name": "Ministry of Petroleum & Natural Gas",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "09f17167-df63-4829-852d-d609f384c040",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone V",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "0accb114-5caa-47e6-bf4d-d70792cc5a92",
+    "target_name": "Engineers India Limited (EIL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "0b704a02-e10f-450f-ba83-8dbacba37d12",
+    "target_name": "Indian Academy of Sciences",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "0d0f5112-73fc-4e8b-9de5-967c9bb25ed9",
+    "target_name": "National Mission for Clean Ganga",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f0b869a7-d8f9-4515-91b8-5a041f13e59b",
+    "target_name": "Snow & Avalanche Study Establishment (SASE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f15da228-c438-4d12-81b9-c423e8aa715a",
+    "target_name": "Ministry of Culture",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f4bc83f7-3002-4626-8b60-87dc33eb4733",
+    "target_name": "Ministry of Minority Affairs",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f96d5211-f7ac-46cc-8886-b036e9c3e091",
+    "target_name": "Terminal Ballistics Research Laboratory (TBRL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fb10ea4b-201d-4ea2-9612-53cf8cc411b8",
+    "target_name": "Unique Identification Authority of India (UIDAI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fc2f6e07-828c-4296-b935-3e2491e1683d",
+    "target_name": "National Payments Corporation of India (NPCI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fee3d888-43c9-4567-8823-d342c368cb65",
+    "target_name": "National Institute for Smart Government (NISG)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "57999c52-5a54-444d-9ea1-5c2f499a2367",
+    "target_name": "National Capital Region Transport Corporation (NCRTC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "57e38d12-37b0-43c7-8f0e-bf9173ccef55",
+    "target_name": "ICMR - Institutes Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "605dbb98-c5cf-468f-9e76-af3bd6f392da",
+    "target_name": "Indian Railway Construction International",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6931b1e5-8384-4201-abb2-de39fd44da01",
+    "target_name": "National Council of Applied Economic Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "10580987-4e31-4019-964e-237323b82df7",
+    "target_name": "ICAR-Indian Institute of Oil Palm Research (IIOPR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "934e6fe9-38cc-4bbc-b333-c7be983e7b1a",
+    "target_name": "National Institute of Educational Planning and Administration",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9f0b01b6-9eb4-4923-b43a-7e1e2bf7c7e5",
+    "target_name": "Western Coalfields Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a00d3736-4b24-4da3-9668-b2cbf473a452",
+    "target_name": "Indian Oil Research and Development Centre",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "12a07c75-2d23-4366-aa1a-d527f2a1ba32",
+    "target_name": "ICMR-National Institute for Tribal Health Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "12feb4e9-8a92-4f96-b05c-1940b0b72cac",
+    "target_name": "ICAR-National Research Centre for Litchi (NRCL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "13ca9493-1798-477d-a296-e0475152c31d",
+    "target_name": "Motilal Nehru National Institute of Technology Allahabad",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ae1dc411-1876-4ad2-b19c-0827527de93b",
+    "target_name": "AIIMS Bibinagar",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "811034a8-9f6f-400c-bcb4-8f96cb276632",
+    "target_name": "BEML Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "be4cdf65-a289-4298-85a0-dc888576eacc",
+    "target_name": "National Bank for Financing Infrastructure and Development (NaBFID)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c5e00bb6-afe3-4b25-b437-803491643e32",
+    "target_name": "National Aluminium Company Limited (NALCO)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c7841676-9db1-4ed1-9037-0eadea588aa4",
+    "target_name": "V.V. Giri National Labour Institute",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ce718abf-383f-46be-b684-768c0b8ce02d",
+    "target_name": "National Book Trust",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d08286af-ca6e-4949-8db3-090d5513dd2e",
+    "target_name": "DRDO - Laboratories Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d2a03f37-1e46-44a3-96f9-dd2f06022717",
+    "target_name": "National Portal of India - Web Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d2d23e4e-8db7-4eb8-8392-a223d26acc4f",
+    "target_name": "National Portal of India - Contact Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d69ae17e-d433-43a3-8340-d92ae8a30e5d",
+    "target_name": "Lalit Kala Akademi",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d6e5c781-4f79-45ee-8c4e-95294a144cf6",
+    "target_name": "National Disaster Management Institute (NIDM)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "dca0b21e-7258-4762-9601-23d10bbfb1f9",
+    "target_name": "National Buildings Construction Corporation (NBCC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e2c2c599-c84b-430d-8e18-0c860c3a4f1e",
+    "target_name": "Mumbai Metro Rail Corporation",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "eb634e49-623e-4eab-8df4-16f4035080a8",
+    "target_name": "Garden Reach Shipbuilders & Engineers",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "eb69b949-b4ca-4d28-822e-294bc32b619b",
+    "target_name": "Rashtriya Ispat Nigam Limited (RINL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "13e8cb02-0165-4045-9865-fd7160b76683",
+    "target_name": "NIT Jamshedpur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "eb7a1dbb-8f05-4ea3-9dd1-333a9b05d6f7",
+    "target_name": "Kochi Metro Rail",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "edd1a685-1dd0-4691-9062-4a2cb5408f61",
+    "target_name": "AIIMS Bilaspur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "1be4aaeb-76ea-4725-ae13-cbf488798675",
+    "target_name": "National Disaster Management Authority (NDMA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fb11b804-958c-41a3-8966-419e365c10fb",
+    "target_name": "National Institute of Public Finance and Policy",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "96b26b1c-4d53-44e4-8cd0-511a52845bb3",
+    "target_name": "`site:gov.in \"temporary position\"`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fc8ad6d5-eec7-4013-abd6-ab52978856c3",
+    "target_name": "Indian Council of Philosophical Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fdcd904e-cf68-4422-a685-8b7f88f22797",
+    "target_name": "Central Drugs Standard Control Organisation (CDSCO)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fe2ad4c8-44ef-4c6e-95ba-97840c832ba3",
+    "target_name": "Central Pollution Control Board (CPCB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "1d880322-8cc2-469e-9ad6-68fc6c3a9bd3",
+    "target_name": "Financial Intelligence Unit - India (FIU-IND)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "1e9df943-5ffa-44ce-8f85-f382ad5a1c33",
+    "target_name": "`site:gov.in \"project staff\"`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "20dd46e6-070f-48c9-9025-bf736688e1ab",
+    "target_name": "National Institute for the Empowerment of Persons with Visual Disabilities",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "21bfa5af-7d20-44f7-abe9-6d04e9a3a1c3",
+    "target_name": "Indian Council of Social Science Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "458e89b6-becc-4651-a205-16d6e277b711",
+    "target_name": "AIIMS Vijaypur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7931ee23-4266-4405-8091-526fc9802ece",
+    "target_name": "Ministry of Micro, Small & Medium Enterprises",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "22b3ae97-d66c-4f1c-85c9-82f4a3e9d787",
+    "target_name": "Digital India Land Records Modernization Programme",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "22ea0139-c53e-4609-beef-efb865c1d497",
+    "target_name": "ICAR-Mahatma Gandhi Integrated Farming Research Institute (MGIFRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2314700c-ea81-4022-a92c-06b8df35c8a1",
+    "target_name": "Northern Coalfields Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "23e843f5-0455-4533-8399-027309f25f5a",
+    "target_name": "South Eastern Coalfields Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "23ee745b-e25b-4ef6-9975-3b9f5cf9ff68",
+    "target_name": "Combat Vehicles Research & Development Establishment (CVRDE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "24a02543-1830-40e6-8de6-4231838c0e10",
+    "target_name": "Central University of Punjab",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2515689b-8e7c-4e9e-9cf8-825eaad75c73",
+    "target_name": "National Biodiversity Authority",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "254e8797-5449-4799-9c3c-97da5cf879f3",
+    "target_name": "Central Coalfields Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "29a481f4-92b1-4b23-97cb-ad9ac327778a",
+    "target_name": "CSIR - Laboratories/Institutes Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2a28917d-f8fc-48c3-9a8d-c66e413c7fc6",
+    "target_name": "Institute for Stem Cell Science and Regenerative Medicine (inStem)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2bbff02c-f22a-425d-a456-60c3e97cadc4",
+    "target_name": "ICAR - Institutions Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2e0f8134-cd43-43af-b807-cb0204ace1cd",
+    "target_name": "ICAR-Directorate on Onion and Garlic Research (DOGR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2e3024fd-676a-4df5-8c51-05a7929525a3",
+    "target_name": "ICAR-Indian Institute of Farming Systems Research (IIFSR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2e499778-0b90-4926-af35-b9a754874a34",
+    "target_name": "National Thermal Power Corporation (NTPC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2ef9408d-7ca6-47fe-9194-1d9f63375eeb",
+    "target_name": "Department of Public Enterprises - CPSE Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2f1520a4-d200-47cd-8d5d-994dfea033a0",
+    "target_name": "ICAR-Central Institute of Fisheries Technology (CIFT)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2f64d4cc-8ca7-4e6a-acd7-c02ce36776c4",
+    "target_name": "Indian Institute of Information Technology Guwahati",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "31d3c4c9-d6ce-4f46-9c9e-9a21c4a52037",
+    "target_name": "ICAR-Central Potato Research Institute (CPRI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "31e707d1-cdd5-49a0-b361-74c05adc5a82",
+    "target_name": "ICAR-Indian Institute of Water Management (IIWM)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "32586438-793b-4e02-b6e6-ca4ba17de84f",
+    "target_name": "National Institute of Plant Genome Research (NIPGR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3390569a-4cfa-4ae7-a3e5-754d7d65afa4",
+    "target_name": "Indian Institute of Information Technology Una",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "33fde2b2-7fff-4dae-80b9-5eea44a92a90",
+    "target_name": "Inland Waterways Authority of India (IWAI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "37cedf15-ebcf-483e-aea4-ad2dac8243f5",
+    "target_name": "Ministry of Education - Central Universities Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3a288030-9a35-4fed-b093-bff59ada86cf",
+    "target_name": "NITI Aayog Work For Viksit Bharat",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3b12ba0c-7f23-4820-bb68-ca25fdbe479f",
+    "target_name": "SJVN Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3c374189-ae72-4e2b-9e2d-92b64d605b64",
+    "target_name": "Institute of Advanced Study in Science and Technology (IASST)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3e780ee1-d0ad-4e74-a266-cb64bec9ee3b",
+    "target_name": "AIIMS Mangalagiri",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3eb75957-09fc-4624-b63b-026457ea01b0",
+    "target_name": "ICAR-National Institute of High Security Animal Diseases (NIHSAD)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3ec01087-71a4-41e0-bb73-6f4a188043b1",
+    "target_name": "National Institute of Ocean Technology (NIOT)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "410cea46-48bb-40e7-aa06-512cb73548f1",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone III",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "410dbf0a-008f-442d-a385-1371e747421a",
+    "target_name": "ICAR-Central Institute of Subtropical Horticulture (CISH)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "440c50c3-a0c0-412e-a929-40fc76bca1fb",
+    "target_name": "National Institute of Social Defence",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "44ecc452-6306-4194-b3f4-274f0ae220cb",
+    "target_name": "National Institute of Animal Biotechnology (NIAB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "485fb5ef-f9d7-4a4b-aa1a-67bed8515b7b",
+    "target_name": "India Meteorological Department (IMD)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "495a50b1-ad07-4c7a-be28-a1d9b78b4f04",
+    "target_name": "National Company Law Tribunal (NCLT)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4a93fbcd-a114-40a1-9913-1aad31cab00a",
+    "target_name": "National Commission for Indian System of Medicine",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4b579712-1c07-4124-8136-2b52738b0c25",
+    "target_name": "ICMR-National Institute for Pre-Clinical Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4e45ada7-a076-42cc-9148-0a4b4bf006f1",
+    "target_name": "ICMR-National Institute of NCDs Epidemiology",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4f049182-881d-4642-bd81-232378278c56",
+    "target_name": "Electronics Corporation of India Limited (ECIL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4ff982e7-b4e6-46e8-bdcc-a3cf869fe63d",
+    "target_name": "National Institute of Mental Health and Neuro Sciences",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5191f3c7-62a3-4ece-9233-e169f4e60b62",
+    "target_name": "Technology Development Board (TDB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "54566f40-b6da-4d5a-8ea2-85ab35566220",
+    "target_name": "NIT Agartala",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "54aa70f5-86e0-42ae-9ab8-781d4662348d",
+    "target_name": "ICAR-Indian Institute of Oilseeds Research (IIOR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "54d465c0-f8b3-42ae-9206-eba6834f31e6",
+    "target_name": "ICAR-National Research Centre on Camel (NRCC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "56fb1948-313f-4cfe-9785-ef8760c40d60",
+    "target_name": "ICMR-Regional Medical Research Centre Bhubaneswar",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "590d7187-957a-44e4-9c29-8a56d8dc5218",
+    "target_name": "Airport Authority of India (AAI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5a2d6e72-e721-4e29-881b-c4a129fef795",
+    "target_name": "UGC - Deemed Universities Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5b05d668-4e11-41a8-a4ae-0ae3367baf50",
+    "target_name": "ICAR-Directorate of Floricultural Research (DFR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5b3a73a0-3397-4c61-b364-16b99b6bcc5f",
+    "target_name": "ICAR-National Institute for Research on Commercial Agriculture (NIRCA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5c611773-7e97-491b-a0d1-7ba1ff5c3614",
+    "target_name": "ICMR-National Institute of One Health",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5d19177d-1933-4892-8928-f8515a4ecade",
+    "target_name": "AIIMS Madurai",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "001cbd33-f3e5-46c5-abe7-1e6ddd243787",
+    "target_name": "Python",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "61b70258-b4b4-4c69-a0f4-b0692967ee0f",
+    "target_name": "Housing and Urban Development Corporation (HUDCO)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "625ddc4f-c78b-4b15-aa6e-f34e86926fa7",
+    "target_name": "Hindustan Copper Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "65e80479-0ee8-4718-9e40-3b2c12375160",
+    "target_name": "Mahanadi Coalfields Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "67018e02-813b-44a7-89cb-cbfe95bfddec",
+    "target_name": "ICAR-Agricultural Technology Application Research Institute Zone IV",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "679846b7-9f0f-465a-be2b-79232ed4f4ea",
+    "target_name": "ICAR-National Research Centre on Mithun (NRCM)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "69c801bb-fa26-4d86-b3ba-75dba8a0b3ce",
+    "target_name": "ICAR-Directorate of Cashew Research (DCR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6fabe022-e817-4e3a-a3d7-2a52a6836a04",
+    "target_name": "National Portal of India - Public Utilities Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "71be4b5b-046e-409a-8946-109f2072f61c",
+    "target_name": "ICMR-Bhopal Memorial Hospital & Research Centre",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "71c51027-c92d-4d06-87ae-8ef7e92ce34e",
+    "target_name": "Bharat Petroleum Corporation Limited (BPCL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7205b560-3809-4faa-8ec6-6fafdb684344",
+    "target_name": "Indian National Academy of Engineering",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "195b28cd-0c75-4a54-ae59-ca460413bbda",
+    "target_name": "Digital",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7244c555-ad0d-451e-9f8c-a56e266bdb77",
+    "target_name": "Biotechnology Industry Research Assistance Council (BIRAC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "732664bf-6384-4bd6-aa83-5aab7a32d1dc",
+    "target_name": "ICAR-Indian Institute of Rapeseed Mustard Research (IIRMR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "74dc9411-38fc-451d-8507-f251ac78e173",
+    "target_name": "Institute of Bioresources and Sustainable Development (IBSD)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "75621bc9-d69e-4bf4-8343-26d33aa238bc",
+    "target_name": "AIIMS Bathinda",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "773dd420-6616-4246-acd8-2589440bf370",
+    "target_name": "Hindustan Petroleum Corporation Limited (HPCL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "79a24138-4c99-49fb-8b58-7c9e74ea0812",
+    "target_name": "Ministry of Corporate Affairs",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7a0294f7-0ee5-4e51-a5f6-e77585d9777c",
+    "target_name": "National Mission on Education through ICT",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7a40498d-5e2e-4383-baf2-5af24bc140d7",
+    "target_name": "National Commission for Backward Classes",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7afa9189-bd4e-4c70-9c29-5ecfcae1635c",
+    "target_name": "National Institute of Disaster Management",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7bb64da0-6f93-4f08-9853-f13b2bae49f9",
+    "target_name": "Ministry of Tribal Affairs",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "049769cc-7c44-477d-b164-0326b85630b8",
+    "target_name": "`site:gov.in recruitment`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "0c525bb7-e4b1-4a07-8f0b-f9946f47dbdb",
+    "target_name": "[DBT Autonomous Institutes](https://dbtindia.gov.in/sites/default/files/uploadfiles/AUTONOMISOUS_INSTITUE.pdf)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "34b385d3-7e98-408d-9701-604b09db6b7a",
+    "target_name": "`site:gov.in \"young professional\"`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7be71a16-2ca7-40c9-95e1-d94a80a48c4a",
+    "target_name": "National Informatics Centre Technology Incubation Centre",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "13a0a6a1-8a49-4795-bb40-1af21eb3f3b4",
+    "target_name": "[ ] All sources have recurring crawl schedules and deadline-aware rechecks.",
+    "target_type": "ORGANISATION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7be74a4a-1335-4d4e-b91f-5e1f46e68bc1",
+    "target_name": "Nagpur Metro Rail",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7c1bf907-9c7a-4d0f-925c-02d73c06a61f",
+    "target_name": "Ministry of Agriculture & Farmers Welfare",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "7d9d1892-4b0b-4bd2-a4a0-8e9c190e7245",
+    "target_name": "North Eastern Space Applications Centre (NESAC)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2a54daa5-f345-4d80-8dd2-13a43888706f",
+    "target_name": "[Council of IITs](https://www.iitsystem.ac.in/facultyrecruitment)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2a7ab995-3559-4359-b094-402dd1b83fdc",
+    "target_name": "[National Portal of India - Web Directory](https://www.india.gov.in/directory/web-directory)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "4d05765e-21e9-4dff-b96d-ccafad62a280",
+    "target_name": "`\"government\" \"young professional\" India`",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b9bab1a0-fcbc-4d78-b22b-b416bb61c212",
+    "target_name": "`site:gov.in empanelment`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c1b9612f-b7f7-4b1b-8e49-f70c52b92cc3",
+    "target_name": "Ministry of Panchayati Raj",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e314b904-c695-4b30-9cde-2e11d9715336",
+    "target_name": "Department of Revenue",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f7bb5ca4-e640-4696-9ea0-f065196878aa",
+    "target_name": "National Institute of Rural Development & Panchayati Raj",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "3219e89c-2e31-4b99-b904-3263c7494ca7",
+    "target_name": "[ ] Phase 1 - 15 named seed universe loaded into GovernmentSource discovery.",
+    "target_type": "ORGANISATION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "82d81e8b-688b-41bd-a856-e702d4ebf10d",
+    "target_name": "Geological Survey of India (GSI)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "833e9a41-dfdd-46df-af52-6dded1d6f55c",
+    "target_name": "Centre for Liquid Crystal Research",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8418a653-02fd-42bd-9c3b-06d61649a293",
+    "target_name": "ICMR-National Institute of Immunohaematology",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "84388207-abe4-4ef8-8edd-7ffee0ad3ef6",
+    "target_name": "National Academy of Sciences India",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "390ab7ee-b6cc-4343-9437-74796ea1ace1",
+    "target_name": "[ ] ≥5,000 if additional legitimate sources continue to be discovered.",
+    "target_type": "ORGANISATION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "84ac0662-b029-4dd0-ba5f-385dc3dec0fc",
+    "target_name": "NHPC Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "84be41db-7bad-463b-8f95-14d4cbffc4d4",
+    "target_name": "Council of IITs - IIT Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "860132c5-5222-4990-93f1-69d771491739",
+    "target_name": "Defence Materials & Stores Research & Development Establishment (DMSRDE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "88f30edd-bbd3-462c-9013-78f239793eae",
+    "target_name": "AIIMS Darbhanga",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8a18e063-1db7-4e7e-b189-17af2bd95e58",
+    "target_name": "ICAR-Indian Institute of Soil Science (IISS)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "1ed58119-a25d-4b6a-aedb-3c35fb666a1b",
+    "target_name": "NIT Hamirpur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8a251432-16b2-4ecb-8cc8-cbbf2ae346e4",
+    "target_name": "ICAR-National Institute of Plant Biotechnology (NIPB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8a2594f7-bd4e-4abf-a803-84fb5a5e4d70",
+    "target_name": "National School of Drama",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8a7228f4-b134-4ae8-9bd6-31864167aaaf",
+    "target_name": "AIIMS Deoghar",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8a9f5e2c-0e51-42e1-afce-dbf9eea27836",
+    "target_name": "Mazagon Dock Shipbuilders Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8ccf10bf-95db-41fe-be4b-ed332c340c6e",
+    "target_name": "Ministry of External Affairs",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8cf877f2-07ff-4bd9-a7dd-5d91d16fa393",
+    "target_name": "CSIR-National Institute of Science Communication and Policy Research (NIScPR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8cfd3982-6244-4a93-91e8-a10fccd4157a",
+    "target_name": "Central Administrative Tribunal (CAT)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8d8d9410-c0a3-4559-ab3a-c9c6b60a04e7",
+    "target_name": "Aeronautical Development Agency (ADA)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "93c43404-ef04-4010-8373-5663a2beae71",
+    "target_name": "National Institute of Financial Management",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "94f9d93d-661e-4d34-b749-715bb1148d81",
+    "target_name": "Armament Research & Development Establishment (ARDE)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "97a0c435-5dd9-453b-9ba6-b88e07422d71",
+    "target_name": "Ministry of Consumer Affairs",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9b72b07a-8624-4fa3-9e5b-ede5a4a1e762",
+    "target_name": "Open Government Data Platform India",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9c7a110a-843c-455d-9ec0-84d322d87533",
+    "target_name": "National Council of Educational Research and Training",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9d460163-9ce2-495a-95df-2d57d76c0f5c",
+    "target_name": "Research & Development Establishment (Engineers) (R&DE(E))",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9db32b55-df44-4127-86f6-0be7238ba153",
+    "target_name": "Hindustan Shipyard Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9e381989-97ff-4a04-8744-b7b5aad63fff",
+    "target_name": "Indian Institute of Information Technology and Management Kerala",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "9e9b9d30-53b7-4494-ae0d-9ceb3c990bc3",
+    "target_name": "National Highways & Infrastructure Development Corporation (NHIDCL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "31102fea-1022-4001-8757-385c03edadf5",
+    "target_name": "NIT Delhi",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a1d6755a-da98-4260-a284-bde3113e5074",
+    "target_name": "Ministry of Information & Broadcasting",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a1e650ff-dca6-4a8b-8713-3a0c170256bc",
+    "target_name": "Indian Institute of Space Science and Technology (IIST)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a27df490-4204-4298-86dc-29c4082920de",
+    "target_name": "Bharat Coking Coal Limited",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a9e88fc8-ea7c-46b0-bcb3-8c5c378e4ece",
+    "target_name": "Centre for Fire, Explosive and Environment Safety (CFEES)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "aa555cf1-a645-4d1f-bd3d-399c4eba6cc8",
+    "target_name": "ICMR-Regional Medical Research Centre Dibrugarh",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "af8c95a6-ef2c-4257-9bd8-34789c6d6c07",
+    "target_name": "Ministry of Social Justice & Empowerment",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "bda7f4d2-56bd-4811-a292-02a01e7b4eb7",
+    "target_name": "Naval Physical & Oceanographic Laboratory (NPOL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "bfac5ef7-ca0c-44d5-812f-287f6f04441f",
+    "target_name": "NewSpace India Limited (NSIL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8407997c-f53d-41d0-8f1a-2a17e2b338c9",
+    "target_name": "Ministry of Fisheries, Animal Husbandry & Dairying",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c853eecc-f198-424b-a8af-1273b47727f4",
+    "target_name": "DigiLocker",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ca1d98e1-661b-4d1f-8e79-12549dc3fd6d",
+    "target_name": "Ministry of Cooperation",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d25a7fce-88a7-46d9-a526-48b8f3d2f7ac",
+    "target_name": "Department of Financial Services",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e95270ab-52b3-4718-84ca-1e17e5656fb5",
+    "target_name": "ICAR-Central Institute of Cotton Research (CICR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "6d484a6b-8326-41ba-9f82-d2b2c013b2bb",
+    "target_name": "NITI Aayog",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "b3ebb1fa-1910-4ad7-9da6-a88400909e53",
+    "target_name": "National Housing Bank (NHB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "15626a11-6df0-4c8b-84f9-f3858c35da03",
+    "target_name": "International Centre for Genetic Engineering and Biotechnology (ICGEB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "160524db-c319-4c3f-be2c-d589fee37c93",
+    "target_name": "ICAR-Indian Institute of Agricultural Biotechnology (IIAB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "263b98fa-c782-4f1a-b486-9e0a7c255335",
+    "target_name": "Central University of Karnataka",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "27571a7a-ccdb-49bd-8009-30d3cacf237c",
+    "target_name": "National Institute of Hydrology (NIH)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "2a66ecfb-ced8-4528-9ed1-c293cf9c3b4d",
+    "target_name": "Central Ground Water Board (CGWB)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "32668abb-20a8-471e-a6c7-ad80c2590fd1",
+    "target_name": "National Institute of Securities Markets",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "829c8079-2eac-463d-acf1-47cbdf2e4ea8",
+    "target_name": "National Institute of Rural Development and Panchayati Raj",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8aebf42e-a973-44fa-b2bc-d08b3ebdc1c9",
+    "target_name": "ICAR-Indian Institute of Sugarcane Research (IISR)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "adc336c3-6a35-459a-8ee6-12a6961b5bee",
+    "target_name": "AIIMS Gorakhpur",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "bfdeed16-3f5d-4488-bd2e-5efed2ca01d9",
+    "target_name": "AIIMS Guwahati",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c561f9cb-17dc-406f-80d1-79dade6a3054",
+    "target_name": "ISRO - Centres Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d22df800-7730-4d13-9784-c20a31558e51",
+    "target_name": "National Productivity Council",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d9505200-7d29-4901-9830-844c3fe85269",
+    "target_name": "Bharat Dynamics Limited (BDL)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d9d4680b-7b4e-407d-b7af-0c0331a42977",
+    "target_name": "DST - Autonomous S&T Institutions Directory",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "e8b7a925-b313-4e5b-8ef6-756f5c8acd8d",
+    "target_name": "IndiaAI Mission",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f31715cb-6b3b-4412-a696-fb5af819bf7c",
+    "target_name": "National Commission for Scheduled Tribes",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fabcc2fb-31d9-4929-a971-ee624a5b854f",
+    "target_name": "Bank of Maharashtra",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "fd4f0181-42d7-408a-960f-27d259f917ee",
+    "target_name": "Dedicated Freight Corridor Corporation of India",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "cab9734b-75fa-40b5-bdbc-a7086220e249",
+    "target_name": "AIIMS Rewari",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d8123bca-8eaf-41ca-8711-8f5747975f12",
+    "target_name": "Lucknow Metro Rail Corporation / UPMRC",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "f0c67942-38b6-4950-913a-d7973b3688ca",
+    "target_name": "State Pollution Control Boards",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "186169fa-4967-4f05-98f4-4464e548f026",
+    "target_name": "Computer Science",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "ba6507ac-3566-4ed6-bae6-a432533c71db",
+    "target_name": "Software Developer",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8a0d2495-3aeb-4e70-beba-325a1b6644cc",
+    "target_name": "Analytics",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d60924a0-7019-411b-aa04-d1ef7c331ddc",
+    "target_name": "`site:gov.in engagement`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "8c4d646e-86a6-44f8-87c5-3986fac6f6e7",
+    "target_name": "[ICAR Research Institutes/NRCs/Directorates](https://icar.gov.in/en/research-institutesnrcsdirectorates)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a23cb91a-9f76-4b3b-b183-ed98865a4e0d",
+    "target_name": "Young Professional",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a248f3a1-bd98-4ca9-a4bd-9bea6e29be30",
+    "target_name": "[ ] Phase 17 every district/local-government source enumerated.",
+    "target_type": "DISTRICT_TARGET",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "d00f90d5-ab12-4d84-b395-8602dd937d42",
+    "target_name": "[Council of NITSER](https://www.nitcouncil.org.in/recruitment)",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "a812b28a-fb15-43b2-84de-7bb5151341a9",
+    "target_name": "[ ] Phase 18 recursive child-organisation discovery completed.",
+    "target_type": "ORGANISATION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "28026a3c-bf57-43bf-90f1-df6521f065ea",
+    "target_name": "Cybersecurity",
+    "target_type": "ORGANISATION",
+    "discovery_status": "UNRESOLVED_DOMAIN",
+    "reason": "Official domain not identified in authoritative directory or public registry",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "5291212d-d04b-4ce0-8f44-249c9692be0d",
+    "target_name": "`site:gov.in \"technical consultant\"`",
+    "target_type": "HIRING_QUERY",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "be6dc3a9-7410-4853-87e6-13d586711508",
+    "target_name": "Local Government Directory: Government of India Ministry of Panchayati Raj directory exposes downloads for districts, sub-districts, villages, PRIs, urban local bodies, wards and development blocks. citeturn1search3",
+    "target_type": "DISCOVERY_INSTRUCTION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  },
+  {
+    "id": "c45df845-119f-45b2-be97-d54809a190e4",
+    "target_name": "IGOD Uttar Pradesh example: the official directory reports 75 district results and exposes each district's official website plus Sub Districts and Blocks links. citeturn8view0",
+    "target_type": "DISCOVERY_INSTRUCTION",
+    "discovery_status": "NOT_AN_ORGANISATION",
+    "reason": "Search query or recursive discovery directive, not a legal institution",
+    "state": null,
+    "district": null
+  }
+]

@@ -27,6 +27,15 @@ from app.services.government.municipal_directory import MUNICIPAL_REGISTRY
 from app.services.government.research_directory import RESEARCH_REGISTRY
 from app.services.government.psu_directory import PSU_AND_CENTRAL_REGISTRY
 from app.services.government.state_department_directory import STATE_DEPARTMENTS_REGISTRY
+from app.services.government.exhaustive_resolver import (
+    GovernmentExhaustiveResolver,
+    DIRECT_ORGANISATIONS,
+    DIRECTORIES_REGISTRY,
+    DRDO_RAC_ENTITIES,
+    COVERED_VIA_PARENT_ENTITIES,
+    VERIFIED_DUPLICATES_MAP,
+    VERIFIED_NON_ORGANISATIONS_SET,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -39,6 +48,7 @@ COMPOSITE_DIRECTORY: Dict[str, Dict[str, Any]] = {
     **RESEARCH_REGISTRY,
     **PSU_AND_CENTRAL_REGISTRY,
     **STATE_DEPARTMENTS_REGISTRY,
+    **DIRECT_ORGANISATIONS,
 }
 
 # Verified public institution domains that may not use .gov.in (PSUs, Central Labs, AIIMS)
@@ -772,114 +782,14 @@ class GovernmentSourceResolver:
     def resolve_unresolved_backlog(
         cls,
         db: Session,
-        batch_size: int = 500,
+        batch_size: int = 100,
     ) -> Dict[str, Any]:
         """
-        Processes all unresolved targets in GovernmentUnresolvedTarget:
-        - Re-evaluates each target against the expanded composite directory.
-        - Resolves matching targets to GovernmentSource and sets discovery_status="RESOLVED".
-        - Classifies queries as NOT_AN_ORGANISATION.
-        - Updates granular reasons and retry schedules.
+        Processes all unresolved targets in GovernmentUnresolvedTarget using
+        the exhaustive deep resolution pipeline.
+        Assigns definitive resolution states guaranteeing UNINVESTIGATED = 0 and UNCLASSIFIED = 0.
         """
-        now = get_utc_now()
-        unresolved_records = db.query(GovernmentUnresolvedTarget).filter(
-            GovernmentUnresolvedTarget.discovery_status != "RESOLVED"
-        ).all()
-
-        stats = {
-            "total_backlog_evaluated": len(unresolved_records),
-            "resolved_to_sources": 0,
-            "classified_not_an_organisation": 0,
-            "classified_unresolved_domain": 0,
-            "classified_ambiguous": 0,
-        }
-
-        # Cache existing sources
-        existing_sources_by_domain: Dict[str, GovernmentSource] = {
-            s.official_domain.lower(): s
-            for s in db.query(GovernmentSource).all()
-        }
-        existing_sources_by_name: Dict[str, GovernmentSource] = {
-            s.organisation_name.lower(): s
-            for s in existing_sources_by_domain.values()
-        }
-
-        for idx, unres in enumerate(unresolved_records):
-            target = ParsedTarget(
-                raw_text=unres.target_name,
-                target_name=unres.target_name,
-                target_type=unres.target_type,
-                phase_category="backlog",
-                state=unres.state,
-                district=unres.district,
-            )
-
-            # Check if non-organisation
-            name_low = unres.target_name.lower().strip()
-            if unres.target_type in ("HIRING_QUERY", "DISCOVERY_INSTRUCTION") or name_low.startswith("site:") or name_low.startswith("[ ]") or any(w in name_low for w in ["every district", "every municipal", "every development", "directory lists", "expansion pattern", "directory:"]):
-                unres.discovery_status = "NOT_AN_ORGANISATION"
-                unres.reason = "Search query or recursive discovery directive, not a legal institution"
-                unres.last_attempted_at = now
-                stats["classified_not_an_organisation"] += 1
-                continue
-
-            resolved_info = cls.resolve_target_info(target)
-
-            if resolved_info and resolved_info.get("official_domain"):
-                domain = resolved_info["official_domain"].lower()
-
-                if cls.is_verified_government_domain(domain):
-                    source_record = existing_sources_by_domain.get(domain)
-
-                    if not source_record:
-                        source_record = GovernmentSource(
-                            organisation_name=resolved_info.get("organisation_name", target.target_name),
-                            organisation_type=resolved_info.get("organisation_type", target.organisation_type),
-                            government_level=resolved_info.get("government_level", "central"),
-                            state=resolved_info.get("state", target.state),
-                            district=resolved_info.get("district", target.district),
-                            city=resolved_info.get("city"),
-                            official_domain=domain,
-                            career_url=resolved_info.get("career_url"),
-                            recruitment_url=resolved_info.get("recruitment_url"),
-                            source_type=resolved_info.get("source_type", "portal"),
-                            source_status="VERIFIED",
-                            confidence_category=resolved_info.get("confidence_category", "AUTHORITATIVE"),
-                            confidence=resolved_info.get("confidence", 1.0),
-                            relevance_score=1.0,
-                            discovery_method="backlog_deep_resolution",
-                            discovered_from="unresolved_target_backlog",
-                            discovered_at=now,
-                            last_seen=now,
-                            crawl_interval_minutes=1440,
-                            next_crawl_at=now,
-                            change_frequency_category="low",
-                        )
-                        db.add(source_record)
-                        db.flush()
-                        existing_sources_by_domain[domain] = source_record
-                        existing_sources_by_name[source_record.organisation_name.lower()] = source_record
-
-                    unres.discovery_status = "RESOLVED"
-                    unres.resolved_source_id = source_record.id
-                    unres.reason = "Resolved via authoritative composite directory and normalized matching"
-                    unres.last_attempted_at = now
-                    stats["resolved_to_sources"] += 1
-                    continue
-
-            # Remaining unresolved
-            unres.discovery_status = "UNRESOLVED_DOMAIN"
-            unres.reason = "Official domain not identified in authoritative directory or public registry"
-            unres.attempts_count += 1
-            unres.last_attempted_at = now
-            stats["classified_unresolved_domain"] += 1
-
-            if (idx + 1) % batch_size == 0:
-                db.commit()
-
-        db.commit()
-        logger.info(f"Backlog deep resolution complete: {stats}")
-        return stats
+        return GovernmentExhaustiveResolver.resolve_universe_backlog(db=db, batch_size=batch_size)
 
     @classmethod
     def resolve_target(cls, db: Session, target: ParsedTarget) -> Optional[GovernmentSource]:

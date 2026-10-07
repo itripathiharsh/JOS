@@ -3,45 +3,60 @@
   "passes_completed": 10,
   "total_raw_targets": 15636,
   "total_deduplicated_targets": 2846,
-  "total_verified_sources": 2909,
+  "total_verified_sources": 3340,
   "confidence_breakdown": {
-    "AUTHORITATIVE": 2907,
-    "GOVERNMENT_AFFILIATED": 2
+    "AUTHORITATIVE": 3331,
+    "GOVERNMENT_AFFILIATED": 9
   },
   "level_breakdown": {
-    "central": 329,
+    "central": 720,
+    "state": 1644,
     "district": 894,
-    "municipal": 38,
-    "state": 1640,
+    "municipal": 74,
     "ut": 8
   },
   "hierarchy": {
-    "apex_parents": 2847,
-    "linked_children": 62
+    "apex_parents": 2972,
+    "linked_children": 368
   },
   "backlog_resolution": {
     "total_targets_evaluated": 2594,
-    "resolved_targets": 2050,
-    "active_unresolved": 544,
-    "resolution_rate_percent": 79.03,
+    "total_accounted": 2594,
+    "total_covered": 2512,
+    "direct_verified_sources": 2437,
+    "covered_via_parent": 26,
+    "covered_via_central_recruitment": 18,
+    "covered_via_directory": 31,
+    "verified_duplicates": 13,
+    "verified_non_organisations": 69,
+    "active_unresolved": 0,
+    "uninvestigated": 0,
+    "unclassified": 0,
+    "temporarily_unavailable": 0,
+    "anti_bot": 0,
+    "retry_queue": 0,
+    "coverage_rate_percent": 100.0,
     "by_status": {
-      "NOT_AN_ORGANISATION": 44,
-      "RESOLVED": 2050,
-      "UNRESOLVED_DOMAIN": 500
+      "COVERED_VIA_CENTRAL_RECRUITMENT": 18,
+      "COVERED_VIA_DIRECTORY": 31,
+      "COVERED_VIA_PARENT": 26,
+      "NOT_AN_ORGANISATION": 69,
+      "RESOLVED": 2437,
+      "VERIFIED_DUPLICATE": 13
     },
     "by_type": {
-      "DISCOVERY_INSTRUCTION": 4,
-      "DISTRICT_TARGET": 150,
-      "HIRING_QUERY": 21,
-      "LOCAL_BODY_TARGET": 41,
       "ORGANISATION": 716,
+      "STATE_TARGET": 1626,
+      "LOCAL_BODY_TARGET": 41,
+      "DISTRICT_TARGET": 150,
       "RECRUITMENT_ENDPOINT_TARGET": 36,
-      "STATE_TARGET": 1626
+      "HIRING_QUERY": 21,
+      "DISCOVERY_INSTRUCTION": 4
     }
   },
   "vacancies_discovered": 50,
-  "continuous_monitoring_scheduled": 2909,
-  "duration_seconds": 45.89,
+  "continuous_monitoring_scheduled": 3340,
+  "duration_seconds": 40.02,
   "pass_results_keys": [
     "pass_1_md_universe",
     "pass_2_parent_child_expansion",

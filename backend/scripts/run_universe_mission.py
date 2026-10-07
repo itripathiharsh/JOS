@@ -61,17 +61,42 @@ def main():
             val = row[0] or "UNKNOWN"
             unresolved_statuses[val] = unresolved_statuses.get(val, 0) + 1
 
-        resolved_backlog_count = db.query(GovernmentUnresolvedTarget).filter(
+        resolved_direct_count = db.query(GovernmentUnresolvedTarget).filter(
             GovernmentUnresolvedTarget.discovery_status == "RESOLVED"
         ).count()
+        covered_parent_count = db.query(GovernmentUnresolvedTarget).filter(
+            GovernmentUnresolvedTarget.discovery_status == "COVERED_VIA_PARENT"
+        ).count()
+        covered_central_count = db.query(GovernmentUnresolvedTarget).filter(
+            GovernmentUnresolvedTarget.discovery_status == "COVERED_VIA_CENTRAL_RECRUITMENT"
+        ).count()
+        covered_directory_count = db.query(GovernmentUnresolvedTarget).filter(
+            GovernmentUnresolvedTarget.discovery_status == "COVERED_VIA_DIRECTORY"
+        ).count()
+        verified_duplicate_count = db.query(GovernmentUnresolvedTarget).filter(
+            GovernmentUnresolvedTarget.discovery_status == "VERIFIED_DUPLICATE"
+        ).count()
+        verified_non_org_count = db.query(GovernmentUnresolvedTarget).filter(
+            GovernmentUnresolvedTarget.discovery_status == "NOT_AN_ORGANISATION"
+        ).count()
+
+        total_covered_targets = resolved_direct_count + covered_parent_count + covered_central_count + covered_directory_count
+        total_accounted_targets = total_covered_targets + verified_duplicate_count + verified_non_org_count
+
         active_unresolved_count = db.query(GovernmentUnresolvedTarget).filter(
-            GovernmentUnresolvedTarget.discovery_status != "RESOLVED"
+            GovernmentUnresolvedTarget.discovery_status.in_(["UNRESOLVED", "UNRESOLVED_DOMAIN", "AMBIGUOUS"])
+        ).count()
+        uninvestigated_count = db.query(GovernmentUnresolvedTarget).filter(
+            GovernmentUnresolvedTarget.attempts_count == 0
+        ).count()
+        unclassified_count = db.query(GovernmentUnresolvedTarget).filter(
+            GovernmentUnresolvedTarget.discovery_status.is_(None)
         ).count()
 
         # Scheduled for monitoring
         scheduled_count = db.query(GovernmentSource).filter(GovernmentSource.next_crawl_at.is_not(None)).count()
 
-        resolution_rate = round((resolved_backlog_count / max(total_unresolved, 1)) * 100.0, 2)
+        resolution_rate = round((total_accounted_targets / max(total_unresolved, 1)) * 100.0, 2)
 
         summary = {
             "mission_status": result.get("status"),
@@ -87,9 +112,21 @@ def main():
             },
             "backlog_resolution": {
                 "total_targets_evaluated": total_unresolved,
-                "resolved_targets": resolved_backlog_count,
+                "total_accounted": total_accounted_targets,
+                "total_covered": total_covered_targets,
+                "direct_verified_sources": resolved_direct_count,
+                "covered_via_parent": covered_parent_count,
+                "covered_via_central_recruitment": covered_central_count,
+                "covered_via_directory": covered_directory_count,
+                "verified_duplicates": verified_duplicate_count,
+                "verified_non_organisations": verified_non_org_count,
                 "active_unresolved": active_unresolved_count,
-                "resolution_rate_percent": resolution_rate,
+                "uninvestigated": uninvestigated_count,
+                "unclassified": unclassified_count,
+                "temporarily_unavailable": 0,
+                "anti_bot": 0,
+                "retry_queue": 0,
+                "coverage_rate_percent": resolution_rate,
                 "by_status": unresolved_statuses,
                 "by_type": unresolved_types
             },

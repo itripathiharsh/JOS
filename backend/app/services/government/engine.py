@@ -7,6 +7,7 @@ Orchestrates:
 4. PDF-First Recruitment Extraction & Corrigendum Tracking
 5. Pipeline Ingestion (Deduplication, Matching, Decision, Preparation, Safety)
 """
+import os
 import json
 import time
 import logging
@@ -57,6 +58,34 @@ class GovernmentDiscoveryEngine:
     Central orchestrator for autonomous discovery and crawling of Indian
     government, PSU, research, university, and contractual employment sources.
     """
+
+    CHECKPOINT_FILE = os.path.join(
+        os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))),
+        "govt",
+        "discovery_output",
+        "discovery_checkpoint.json"
+    )
+
+    @classmethod
+    def save_checkpoint(cls, data: Dict[str, Any], filepath: Optional[str] = None) -> str:
+        """Persists discovery checkpoint to disk for crash recovery and resumability."""
+        target = filepath or cls.CHECKPOINT_FILE
+        os.makedirs(os.path.dirname(target), exist_ok=True)
+        with open(target, "w", encoding="utf-8") as f:
+            json.dump({**data, "timestamp": datetime.now(timezone.utc).isoformat()}, f, indent=2)
+        return target
+
+    @classmethod
+    def load_checkpoint(cls, filepath: Optional[str] = None) -> Optional[Dict[str, Any]]:
+        """Loads discovery checkpoint from disk if present."""
+        target = filepath or cls.CHECKPOINT_FILE
+        if os.path.exists(target):
+            try:
+                with open(target, "r", encoding="utf-8") as f:
+                    return json.load(f)
+            except Exception:
+                return None
+        return None
 
     def __init__(self, db: Optional[Session] = None):
         self.db = db

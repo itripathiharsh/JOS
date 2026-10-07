@@ -1,0 +1,544 @@
+001 | ORGANISATION                 | [ ] Phase 19 recruitment endpoint/PDF discovery completed.
+002 | HIRING_QUERY                 | `site:ac.in recruitment`
+003 | HIRING_QUERY                 | `site:edu.in recruitment`
+004 | ORGANISATION                 | Technical Consultant
+005 | ORGANISATION                 | Machine Learning
+006 | LOCAL_BODY_TARGET            | Every municipal corporation
+007 | ORGANISATION                 | [UGC Deemed Universities](https://deemed.ugc.ac.in/Home/ListOfDeemedToBeUniversity)
+008 | DISTRICT_TARGET              | Every District Rural Development Agency
+009 | ORGANISATION                 | ICAR-Central Plantation Crops Research Institute (CPCRI)
+010 | ORGANISATION                 | [Ministry of Earth Sciences organisations](https://moes.gov.in/about-us/about-our-Ministry)
+011 | ORGANISATION                 | API
+012 | ORGANISATION                 | ICAR-National Bureau of Agriculturally Important Micro-organisms (NBAIM)
+013 | ORGANISATION                 | ICAR-Central Marine Fisheries Research Institute (CMFRI)
+014 | ORGANISATION                 | Ministry of Earth Sciences - Organisations Directory
+015 | ORGANISATION                 | ICAR-National Research Centre for Pomegranate (NRCP)
+016 | ORGANISATION                 | Central University of Andhra Pradesh
+017 | ORGANISATION                 | [ICMR Institutes](https://www.icmr.gov.in/institutes)
+018 | ORGANISATION                 | [ ] No fabricated or duplicate sources used to satisfy a numeric threshold.
+019 | ORGANISATION                 | `"government" "technical assistant" India recruitment`
+020 | ORGANISATION                 | BRIC - Biotechnology Research and Innovation Council
+021 | ORGANISATION                 | NIT Srinagar
+022 | ORGANISATION                 | IIT Dharwad
+023 | ORGANISATION                 | NIT Manipur
+024 | DISCOVERY_INSTRUCTION        | IGOD State/UT District directory: official Government of India directory, hosted by NIC/MeitY; it lists state/UT district entry points and links to district websites. citeturn7view0
+025 | ORGANISATION                 | Research Associate
+026 | HIRING_QUERY                 | `site:gov.in "project associate"`
+027 | DISCOVERY_INSTRUCTION        | ICAR official institution directories demonstrate the parent→institute→NRC→bureau→directorate expansion pattern that should be applied across other government ecosystems. citeturn0search0turn0search1
+028 | ORGANISATION                 | [ ] Phase 16 state/UT source families expanded into concrete official organisations.
+029 | ORGANISATION                 | Software Engineer
+030 | ORGANISATION                 | Central University of Bihar
+031 | ORGANISATION                 | Archaeological Survey of India
+032 | ORGANISATION                 | National Council for Teacher Education
+033 | ORGANISATION                 | Legal Metrology Department
+034 | ORGANISATION                 | Indian Bureau of Mines (IBM)
+035 | ORGANISATION                 | [ICAR Institutions](https://icar.gov.in/en/institutions)
+036 | ORGANISATION                 | [ ] ≥10,000 only if the public government ecosystem actually yields that many distinct useful sources.
+037 | HIRING_QUERY                 | `site:nic.in vacancy`
+038 | LOCAL_BODY_TARGET            | Every development authority
+039 | ORGANISATION                 | Advanced Research Centre International / ARCI
+040 | ORGANISATION                 | National Institute of Labour Economics Research and Development
+041 | ORGANISATION                 | Mishra Dhatu Nigam Limited (MIDHANI)
+042 | ORGANISATION                 | National Archives of India
+043 | HIRING_QUERY                 | `site:gov.in "contract basis"`
+044 | ORGANISATION                 | AI
+045 | HIRING_QUERY                 | `site:gov.in consultant`
+046 | HIRING_QUERY                 | `site:gov.in "fixed term"`
+047 | ORGANISATION                 | Artificial Intelligence
+048 | LOCAL_BODY_TARGET            | Every municipal council / municipality
+049 | ORGANISATION                 | `"government" "contractual" India vacancy`
+050 | ORGANISATION                 | `"government" "project associate" India`
+051 | ORGANISATION                 | ICAR-National Institute of Agricultural Economics & Policy Research (NIAEPR)
+052 | ORGANISATION                 | NLC India Limited
+053 | ORGANISATION                 | Sangeet Natak Akademi
+054 | ORGANISATION                 | Cochin Shipyard Limited
+055 | ORGANISATION                 | Council of NITSER - NIT/IISER Recruitment Directory
+056 | ORGANISATION                 | Indian Institute of Astrophysics (IIA)
+057 | ORGANISATION                 | [DST Autonomous S&T Institutions](https://dst.gov.in/autonomous-st-institution)
+058 | ORGANISATION                 | [Ministry of Education Central Universities](https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/AR_2023-24_en.pdf)
+059 | ORGANISATION                 | `"government" "consultant" India vacancy`
+060 | ORGANISATION                 | Data Engineering
+061 | HIRING_QUERY                 | `site:gov.in vacancy`
+062 | ORGANISATION                 | Backend
+063 | DISTRICT_TARGET              | Every district administration / Collectorate in India
+064 | ORGANISATION                 | DBT - Autonomous Institutes Directory
+065 | ORGANISATION                 | MoHFW - Institutes/Hospitals Directory
+066 | HIRING_QUERY                 | `site:gov.in "inviting applications"`
+067 | ORGANISATION                 | [ ] All discovered sources enter the continuous monitoring queue.
+068 | ORGANISATION                 | [ ] ≥1,000 unique legitimate employment sources discovered.
+069 | DISTRICT_TARGET              | Every district-level mission / society / programme
+070 | HIRING_QUERY                 | `site:nic.in recruitment`
+071 | ORGANISATION                 | Cloud
+072 | HIRING_QUERY                 | `site:gov.in employment`
+073 | ORGANISATION                 | Data Analyst
+074 | DISTRICT_TARGET              | Every District Health Society
+075 | ORGANISATION                 | Data Science
+076 | DISTRICT_TARGET              | Every District Mineral Foundation
+077 | ORGANISATION                 | [CSIR Laboratories/Institutes](https://www.csir.res.in/en/csir-labs-unit)
+078 | ORGANISATION                 | Project Manager
+079 | ORGANISATION                 | Central University of Chhattisgarh
+080 | ORGANISATION                 | Translational Health Science and Technology Institute (THSTI)
+081 | ORGANISATION                 | Wadia Institute of Himalayan Geology (WIHG)
+082 | ORGANISATION                 | Indian Council of Historical Research
+083 | ORGANISATION                 | National Career Service - Government Portal Directory
+084 | ORGANISATION                 | ICMR-Rajendra Memorial National Institute of Health Research
+085 | ORGANISATION                 | AIIMS Jammu
+086 | ORGANISATION                 | Satish Dhawan Space Centre (SDSC)
+087 | ORGANISATION                 | Rail Vikas Nigam Limited
+088 | HIRING_QUERY                 | `site:gov.in fellowship`
+089 | ORGANISATION                 | UGC - University Directory
+090 | ORGANISATION                 | NITK Surathkal
+091 | ORGANISATION                 | UCO Bank
+092 | HIRING_QUERY                 | `site:gov.in "walk-in interview"`
+093 | ORGANISATION                 | AIIMS Raebareli
+094 | ORGANISATION                 | ICAR-National Institute for Abiotic Stress Management (NIASM)
+095 | ORGANISATION                 | NIT Nagaland
+096 | ORGANISATION                 | Space Applications Centre (SAC)
+097 | ORGANISATION                 | ICAR-Indian Institute of Maize Research (IIMR)
+098 | ORGANISATION                 | ICAR-National Rice Research Institute (NRRI)
+099 | ORGANISATION                 | CSIR-Fourth Paradigm Institute (4PI)
+100 | ORGANISATION                 | IIT Jodhpur
+101 | HIRING_QUERY                 | `site:res.in recruitment`
+102 | ORGANISATION                 | Project Associate
+103 | ORGANISATION                 | Government e-Marketplace (GeM)
+104 | ORGANISATION                 | Indian Institute of Information Technology Vadodara
+105 | ORGANISATION                 | CSIR-Indian Institute of Integrative Medicine (IIIM)
+106 | ORGANISATION                 | Indian Association for the Cultivation of Science (IACS)
+107 | ORGANISATION                 | Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST)
+108 | ORGANISATION                 | Visvesvaraya National Institute of Technology Nagpur
+109 | ORGANISATION                 | Central University of Telangana
+110 | ORGANISATION                 | Electronics and Radar Development Establishment (LRDE)
+111 | ORGANISATION                 | Birbal Sahni Institute of Palaeosciences
+112 | ORGANISATION                 | ICAR-National Research Centre on Equines (NRCE)
+113 | ORGANISATION                 | ICMR-National Institute of Occupational Health Research
+114 | ORGANISATION                 | Central University of Gujarat
+115 | ORGANISATION                 | Central University of Jammu
+116 | ORGANISATION                 | Central University of Hyderabad
+117 | ORGANISATION                 | ICAR-National Institute of Biotic Stresses Management (NIBSM)
+118 | ORGANISATION                 | CSIR-National Geophysical Research Institute (NGRI)
+119 | ORGANISATION                 | ICMR-National Institute of Translational Virology and AIDS Research
+120 | ORGANISATION                 | National Institute of Urban Affairs
+121 | ORGANISATION                 | Sardar Vallabhbhai National Institute of Technology Surat
+122 | ORGANISATION                 | Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya
+123 | ORGANISATION                 | Technology Information, Forecasting and Assessment Council (TIFAC)
+124 | ORGANISATION                 | Vikram Sarabhai Space Centre (VSSC)
+125 | ORGANISATION                 | Centre for Airborne Systems (CABS)
+126 | ORGANISATION                 | ICAR-Directorate of Poultry Research (DPR)
+127 | ORGANISATION                 | Open Network for Digital Commerce (ONDC)
+128 | ORGANISATION                 | National Accreditation Board for Testing and Calibration Laboratories (NABL)
+129 | ORGANISATION                 | All India Council for Technical Education (AICTE)
+130 | ORGANISATION                 | Rajiv Gandhi University
+131 | ORGANISATION                 | ICAR-Central Research Institute for Dryland Agriculture (CRIDA)
+132 | ORGANISATION                 | ICAR-National Institute of Seed Science & Technology (NISST)
+133 | ORGANISATION                 | National Centre for Cell Science (NCCS)
+134 | ORGANISATION                 | ICAR-Indian Institute of Millets Research (IIMR)
+135 | ORGANISATION                 | Central Sanskrit University
+136 | ORGANISATION                 | Central Tribal University of Andhra Pradesh
+137 | ORGANISATION                 | Bharat Immunologicals & Biologicals Corporation
+138 | ORGANISATION                 | National Centre for Medium Range Weather Forecasting (NCMRWF)
+139 | ORGANISATION                 | IIT Bhilai
+140 | ORGANISATION                 | Vigyan Prasar
+141 | ORGANISATION                 | ICMR-National Institute of Vector Control Research
+142 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone VI
+143 | ORGANISATION                 | ICAR-National Research Centre on Seed Spices (NRCSS)
+144 | ORGANISATION                 | Indian Institute of Information Technology Pune
+145 | ORGANISATION                 | ICAR-Central Institute of Coldwater Fisheries Research (CICFRI)
+146 | ORGANISATION                 | NIT Durgapur
+147 | ORGANISATION                 | ICAR-Indian Institute of Soil and Water Conservation (IISWC)
+148 | ORGANISATION                 | ICMR-National Institute of Traditional Medicine
+149 | ORGANISATION                 | National Atlas & Thematic Mapping Organisation (NATMO)
+150 | ORGANISATION                 | Ministry of Steel
+151 | ORGANISATION                 | National Council for Teacher Education (NCTE)
+152 | ORGANISATION                 | NIT Sikkim
+153 | ORGANISATION                 | ICAR-National Institute of Natural Fibre Engineering & Technology (NINFET)
+154 | ORGANISATION                 | IIT Goa
+155 | ORGANISATION                 | ICAR-Central Arid Zone Research Institute (CAZRI)
+156 | ORGANISATION                 | ICAR-Indian Institute of Horticultural Research (IIHR)
+157 | ORGANISATION                 | National Innovation Foundation (NIF)
+158 | ORGANISATION                 | Central Soil and Materials Research Station
+159 | ORGANISATION                 | ICAR-Indian Institute of Groundnut Research (IIGR)
+160 | ORGANISATION                 | ICAR-Indian Institute of Vegetable Research (IIVR)
+161 | ORGANISATION                 | ICAR-Indian Institute of Pulses Research (IIPR)
+162 | ORGANISATION                 | ICAR-National Soybean Research Institute (NSRI)
+163 | ORGANISATION                 | Central Water and Power Research Station (CWPRS)
+164 | ORGANISATION                 | ICAR-National Bureau of Soil Survey and Land Use Planning (NBSSLUP)
+165 | ORGANISATION                 | ICAR-Indian Grassland & Fodder Research Institute (IGFRI)
+166 | ORGANISATION                 | Central University of Jharkhand
+167 | ORGANISATION                 | Physical Research Laboratory (PRL)
+168 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone IX
+169 | ORGANISATION                 | National Financial Reporting Authority (NFRA)
+170 | ORGANISATION                 | Shri Lal Bahadur Shastri National Sanskrit University
+171 | ORGANISATION                 | IIT Tirupati
+172 | ORGANISATION                 | ICMR-National Institute of Research in Environmental Health
+173 | ORGANISATION                 | ICAR-National Institute of Veterinary Epidemiology & Disease Informatics (NIVEDI)
+174 | ORGANISATION                 | ICAR-Directorate of Knowledge Management in Agriculture (DKMA)
+175 | ORGANISATION                 | Guru Ghasidas Vishwavidyalaya
+176 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone I
+177 | ORGANISATION                 | Bar Council of India
+178 | ORGANISATION                 | Indian Institute of Information Technology Lucknow
+179 | ORGANISATION                 | Central University of Himachal Pradesh
+180 | ORGANISATION                 | ICAR-National Research Centre for Grapes (NRCG)
+181 | ORGANISATION                 | ICAR-Central Tuber Crops Research Institute (CTCRI)
+182 | ORGANISATION                 | ICAR-National Bureau of Plant Genetic Resources (NBPGR)
+183 | ORGANISATION                 | ICAR-Central Institute for Research on Goats (CIRG)
+184 | ORGANISATION                 | Airports Economic Regulatory Authority of India (AERA)
+185 | ORGANISATION                 | ICAR-National Research Institute for Integrated Pest Management (NRIIPM)
+186 | ORGANISATION                 | AIIMS Rajkot
+187 | ORGANISATION                 | National Museum
+188 | ORGANISATION                 | National Consumer Disputes Redressal Commission (NCDRC)
+189 | ORGANISATION                 | National Institute for Empowerment of Persons with Multiple Disabilities
+190 | ORGANISATION                 | Defence Research Laboratory (DRL)
+191 | ORGANISATION                 | North-Eastern Hill University
+192 | ORGANISATION                 | Container Corporation of India
+193 | ORGANISATION                 | Indira Gandhi National Open University
+194 | ORGANISATION                 | Indian Institute of Geomagnetism (IIG)
+195 | ORGANISATION                 | National Institute for Locomotor Disabilities
+196 | ORGANISATION                 | Regional Centre for Biotechnology (RCB)
+197 | ORGANISATION                 | National Medical Commission (NMC)
+198 | ORGANISATION                 | Petroleum and Natural Gas Regulatory Board (PNGRB)
+199 | ORGANISATION                 | ICAR-National Institute of Animal Nutrition & Physiology (NIANP)
+200 | ORGANISATION                 | Indian Overseas Bank
+201 | ORGANISATION                 | Central Bank of India
+202 | ORGANISATION                 | National Centre for Polar and Ocean Research (NCPOR)
+203 | ORGANISATION                 | ICAR-Indian Institute of Rice Research (IIRR)
+204 | ORGANISATION                 | Bose Institute
+205 | ORGANISATION                 | National Commission for Minorities
+206 | ORGANISATION                 | Central University of Tamil Nadu
+207 | ORGANISATION                 | ICAR-Central Institute for Research on Buffaloes (CIRB)
+208 | ORGANISATION                 | Indian Vaccine Corporation
+209 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone VIII
+210 | ORGANISATION                 | Indian Institute of Information Technology Design and Manufacturing Kancheepuram
+211 | ORGANISATION                 | ICAR-National Research Centre on Pig (NRCP)
+212 | ORGANISATION                 | National Human Rights Commission (NHRC)
+213 | ORGANISATION                 | NIT Uttarakhand
+214 | ORGANISATION                 | Central University of Odisha
+215 | ORGANISATION                 | ICAR-Central Institute of Freshwater Aquaculture (CIFA)
+216 | ORGANISATION                 | Indian Institute of Engineering Science and Technology Shibpur
+217 | ORGANISATION                 | ICAR-Central Institute for Women in Agriculture (CIWA)
+218 | ORGANISATION                 | ICAR-Central Institute for Research on Cattle (CIRC)
+219 | ORGANISATION                 | National Water Development Agency (NWDA)
+220 | ORGANISATION                 | Directorate General of Hydrocarbons
+221 | ORGANISATION                 | ICAR-Central Island Agricultural Research Institute (CIARI)
+222 | ORGANISATION                 | ICAR-Central Institute for Arid Horticulture (CIAH)
+223 | ORGANISATION                 | Indian National Centre for Ocean Information Services (INCOIS)
+224 | ORGANISATION                 | ICAR-Indian Institute of Spices Research (IISR)
+225 | ORGANISATION                 | ICMR-National Institute of Research in Tuberculosis
+226 | ORGANISATION                 | ICAR-Central Agroforestry Research Institute (CAFRI)
+227 | ORGANISATION                 | ICAR-Central Citrus Research Institute (CCRI)
+228 | ORGANISATION                 | Central University of Kerala
+229 | ORGANISATION                 | ICAR-National Research Centre for Banana (NRCB)
+230 | ORGANISATION                 | Indian National Science Academy
+231 | ORGANISATION                 | ICMR-National Institute of Malaria Research
+232 | ORGANISATION                 | NIT Meghalaya
+233 | ORGANISATION                 | ICAR-National Bureau of Agricultural Insect Resources (NBAIR)
+234 | ORGANISATION                 | Central Electricity Regulatory Commission (CERC)
+235 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone X
+236 | ORGANISATION                 | Centre for Artificial Intelligence & Robotics (CAIR)
+237 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone VII
+238 | ORGANISATION                 | ISRO Telemetry Tracking & Command Network (ISTRAC)
+239 | ORGANISATION                 | ICAR-Indian Agricultural Statistics Research Institute (IASRI)
+240 | ORGANISATION                 | ICAR-Vivekananda Parvatiya Krishi Anusandhan Sansthan (VPKAS)
+241 | ORGANISATION                 | Food Safety and Standards Authority of India (FSSAI)
+242 | ORGANISATION                 | NMDC Limited
+243 | ORGANISATION                 | ICAR-Research Complex for NEH Region (RCNEH)
+244 | ORGANISATION                 | National Industrial Development Corporation
+245 | ORGANISATION                 | ICMR-National Institute for Research in Bacterial Infections
+246 | ORGANISATION                 | National Centre for Earth Science Studies (NCESS)
+247 | ORGANISATION                 | Central University of Rajasthan
+248 | ORGANISATION                 | Centre for Nano and Soft Matter Sciences (CeNS)
+249 | ORGANISATION                 | ICAR-National Bureau of Fish Genetic Resources (NBFGR)
+250 | ORGANISATION                 | ICAR-Central Institute of Agricultural Engineering (CIAE)
+251 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone II
+252 | ORGANISATION                 | ICMR-National Institute for Research on Women's Health
+253 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone XI
+254 | ORGANISATION                 | ICMR-Regional Medical Research Centre Gorakhpur
+255 | ORGANISATION                 | Centre of Innovative and Applied Bioprocessing (CIAB)
+256 | ORGANISATION                 | Defence Institute of High Altitude Research (DIHAR)
+257 | ORGANISATION                 | ICAR-Central Avian Research Institute (CARI)
+258 | ORGANISATION                 | National Centre for Coastal Research (NCCR)
+259 | ORGANISATION                 | Rajiv Gandhi Centre for Biotechnology (RGCB)
+260 | ORGANISATION                 | ICAR-Indian Institute of Wheat & Barley Research (IIWBR)
+261 | ORGANISATION                 | Department of Space
+262 | ORGANISATION                 | Defence Electronics Research Laboratory (DLRL)
+263 | ORGANISATION                 | Centre for DNA Fingerprinting and Diagnostics (CDFD)
+264 | ORGANISATION                 | National Health Authority (NHA)
+265 | ORGANISATION                 | National Board of Examinations in Medical Sciences
+266 | ORGANISATION                 | Ministry of Personnel, Public Grievances & Pensions
+267 | ORGANISATION                 | ICAR-Central Soil Salinity Research Institute (CSSRI)
+268 | ORGANISATION                 | Ministry of Women & Child Development
+269 | ORGANISATION                 | Defence Institute of Advanced Technology (DIAT)
+270 | ORGANISATION                 | Centre for Development of Imaging Technology
+271 | ORGANISATION                 | Ministry of Civil Aviation
+272 | ORGANISATION                 | ICMR-National Institute for Research on Blood and Immune Disorders
+273 | ORGANISATION                 | National Internet Exchange of India (NIXI)
+274 | ORGANISATION                 | Ministry of Ports, Shipping & Waterways
+275 | ORGANISATION                 | Mahatma Gandhi Central University
+276 | ORGANISATION                 | Ministry of Home Affairs
+277 | ORGANISATION                 | U R Rao Satellite Centre (URSC)
+278 | ORGANISATION                 | India Trade Promotion Organisation (ITPO)
+279 | ORGANISATION                 | ICAR-Central Coastal Agricultural Research Institute (CCARI)
+280 | ORGANISATION                 | Ministry of Development of North Eastern Region
+281 | ORGANISATION                 | National Data Analytics Platform
+282 | ORGANISATION                 | Invest India
+283 | ORGANISATION                 | CSIR-Indian Institute of Toxicology Research (IITR)
+284 | ORGANISATION                 | National Board of Accreditation
+285 | ORGANISATION                 | ICAR-Central Institute on Post-Harvest Engineering & Technology (CIPHET)
+286 | ORGANISATION                 | Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)
+287 | ORGANISATION                 | ICMR-National JALMA Institute for Leprosy & Other Mycobacterial Diseases
+288 | ORGANISATION                 | ICMR-Regional Medical Research Centre Sri Vijaya Puram
+289 | ORGANISATION                 | Indian Science Congress Association
+290 | ORGANISATION                 | Ministry of Mines
+291 | ORGANISATION                 | Ministry of Consumer Affairs, Food & Public Distribution
+292 | ORGANISATION                 | Institute of Life Sciences (ILS)
+293 | ORGANISATION                 | ICAR-Directorate of Weed Research (DWR)
+294 | ORGANISATION                 | Ministry of Parliamentary Affairs
+295 | ORGANISATION                 | National Sanskrit University
+296 | ORGANISATION                 | National Institute of Biomedical Genomics (NIBMG)
+297 | ORGANISATION                 | ICAR-Central Institute of Brackishwater Aquaculture (CIBA)
+298 | ORGANISATION                 | Indian Institute of Remote Sensing (IIRS)
+299 | ORGANISATION                 | CSIR-National Institute of Data Science & AI (NIDSA)
+300 | ORGANISATION                 | National Institute of Immunology (NII)
+301 | ORGANISATION                 | National Gallery of Modern Art
+302 | ORGANISATION                 | Centre for e-Governance
+303 | ORGANISATION                 | ICAR-National Institute of Secondary Agriculture (NISA)
+304 | ORGANISATION                 | ICAR-National Research Centre on Yak (NRCY)
+305 | ORGANISATION                 | Defence Geoinformatics Research Establishment (DGRE)
+306 | ORGANISATION                 | Ministry of Food Processing Industries
+307 | ORGANISATION                 | India Semiconductor Mission
+308 | ORGANISATION                 | Department of Scientific & Industrial Research (DSIR)
+309 | ORGANISATION                 | National Agri-Food Biotechnology Institute (NABI)
+310 | ORGANISATION                 | Sahitya Akademi
+311 | ORGANISATION                 | National Remote Sensing Centre (NRSC)
+312 | ORGANISATION                 | ICAR-Directorate of Medicinal and Aromatic Plants Research (DMAPR)
+313 | ORGANISATION                 | ICAR-Central Institute of Temperate Horticulture (CITH)
+314 | ORGANISATION                 | Ministry of Coal
+315 | ORGANISATION                 | National Critical Information Infrastructure Protection Centre (NCIIPC)
+316 | ORGANISATION                 | Ministry of Housing & Urban Affairs
+317 | ORGANISATION                 | Ministry of Heavy Industries
+318 | ORGANISATION                 | Indian Railway Finance Corporation (IRFC)
+319 | ORGANISATION                 | National Skill Development Agency
+320 | ORGANISATION                 | Research Centre Imarat (RCI)
+321 | ORGANISATION                 | DRDO Recruitment & Assessment Centre (RAC)
+322 | ORGANISATION                 | Defence Electronics Applications Laboratory (DEAL)
+323 | ORGANISATION                 | Ministry of New & Renewable Energy
+324 | ORGANISATION                 | Gas Turbine Research Establishment (GTRE)
+325 | ORGANISATION                 | Ministry of Petroleum & Natural Gas
+326 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone V
+327 | ORGANISATION                 | Engineers India Limited (EIL)
+328 | ORGANISATION                 | Indian Academy of Sciences
+329 | ORGANISATION                 | National Mission for Clean Ganga
+330 | ORGANISATION                 | Snow & Avalanche Study Establishment (SASE)
+331 | ORGANISATION                 | Ministry of Culture
+332 | ORGANISATION                 | Ministry of Minority Affairs
+333 | ORGANISATION                 | Terminal Ballistics Research Laboratory (TBRL)
+334 | ORGANISATION                 | Unique Identification Authority of India (UIDAI)
+335 | ORGANISATION                 | National Payments Corporation of India (NPCI)
+336 | ORGANISATION                 | National Institute for Smart Government (NISG)
+337 | ORGANISATION                 | National Capital Region Transport Corporation (NCRTC)
+338 | ORGANISATION                 | ICMR - Institutes Directory
+339 | ORGANISATION                 | Indian Railway Construction International
+340 | ORGANISATION                 | National Council of Applied Economic Research
+341 | ORGANISATION                 | ICAR-Indian Institute of Oil Palm Research (IIOPR)
+342 | ORGANISATION                 | National Institute of Educational Planning and Administration
+343 | ORGANISATION                 | Western Coalfields Limited
+344 | ORGANISATION                 | Indian Oil Research and Development Centre
+345 | ORGANISATION                 | ICMR-National Institute for Tribal Health Research
+346 | ORGANISATION                 | ICAR-National Research Centre for Litchi (NRCL)
+347 | ORGANISATION                 | Motilal Nehru National Institute of Technology Allahabad
+348 | ORGANISATION                 | AIIMS Bibinagar
+349 | ORGANISATION                 | BEML Limited
+350 | ORGANISATION                 | National Bank for Financing Infrastructure and Development (NaBFID)
+351 | ORGANISATION                 | National Aluminium Company Limited (NALCO)
+352 | ORGANISATION                 | V.V. Giri National Labour Institute
+353 | ORGANISATION                 | National Book Trust
+354 | ORGANISATION                 | DRDO - Laboratories Directory
+355 | ORGANISATION                 | National Portal of India - Web Directory
+356 | ORGANISATION                 | National Portal of India - Contact Directory
+357 | ORGANISATION                 | Lalit Kala Akademi
+358 | ORGANISATION                 | National Disaster Management Institute (NIDM)
+359 | ORGANISATION                 | National Buildings Construction Corporation (NBCC)
+360 | ORGANISATION                 | Mumbai Metro Rail Corporation
+361 | ORGANISATION                 | Garden Reach Shipbuilders & Engineers
+362 | ORGANISATION                 | Rashtriya Ispat Nigam Limited (RINL)
+363 | ORGANISATION                 | NIT Jamshedpur
+364 | ORGANISATION                 | Kochi Metro Rail
+365 | ORGANISATION                 | AIIMS Bilaspur
+366 | ORGANISATION                 | National Disaster Management Authority (NDMA)
+367 | ORGANISATION                 | National Institute of Public Finance and Policy
+368 | HIRING_QUERY                 | `site:gov.in "temporary position"`
+369 | ORGANISATION                 | Indian Council of Philosophical Research
+370 | ORGANISATION                 | Central Drugs Standard Control Organisation (CDSCO)
+371 | ORGANISATION                 | Central Pollution Control Board (CPCB)
+372 | ORGANISATION                 | Financial Intelligence Unit - India (FIU-IND)
+373 | HIRING_QUERY                 | `site:gov.in "project staff"`
+374 | ORGANISATION                 | National Institute for the Empowerment of Persons with Visual Disabilities
+375 | ORGANISATION                 | Indian Council of Social Science Research
+376 | ORGANISATION                 | AIIMS Vijaypur
+377 | ORGANISATION                 | Ministry of Micro, Small & Medium Enterprises
+378 | ORGANISATION                 | Digital India Land Records Modernization Programme
+379 | ORGANISATION                 | ICAR-Mahatma Gandhi Integrated Farming Research Institute (MGIFRI)
+380 | ORGANISATION                 | Northern Coalfields Limited
+381 | ORGANISATION                 | South Eastern Coalfields Limited
+382 | ORGANISATION                 | Combat Vehicles Research & Development Establishment (CVRDE)
+383 | ORGANISATION                 | Central University of Punjab
+384 | ORGANISATION                 | National Biodiversity Authority
+385 | ORGANISATION                 | Central Coalfields Limited
+386 | ORGANISATION                 | CSIR - Laboratories/Institutes Directory
+387 | ORGANISATION                 | Institute for Stem Cell Science and Regenerative Medicine (inStem)
+388 | ORGANISATION                 | ICAR - Institutions Directory
+389 | ORGANISATION                 | ICAR-Directorate on Onion and Garlic Research (DOGR)
+390 | ORGANISATION                 | ICAR-Indian Institute of Farming Systems Research (IIFSR)
+391 | ORGANISATION                 | National Thermal Power Corporation (NTPC)
+392 | ORGANISATION                 | Department of Public Enterprises - CPSE Directory
+393 | ORGANISATION                 | ICAR-Central Institute of Fisheries Technology (CIFT)
+394 | ORGANISATION                 | Indian Institute of Information Technology Guwahati
+395 | ORGANISATION                 | ICAR-Central Potato Research Institute (CPRI)
+396 | ORGANISATION                 | ICAR-Indian Institute of Water Management (IIWM)
+397 | ORGANISATION                 | National Institute of Plant Genome Research (NIPGR)
+398 | ORGANISATION                 | Indian Institute of Information Technology Una
+399 | ORGANISATION                 | Inland Waterways Authority of India (IWAI)
+400 | ORGANISATION                 | Ministry of Education - Central Universities Directory
+401 | ORGANISATION                 | NITI Aayog Work For Viksit Bharat
+402 | ORGANISATION                 | SJVN Limited
+403 | ORGANISATION                 | Institute of Advanced Study in Science and Technology (IASST)
+404 | ORGANISATION                 | AIIMS Mangalagiri
+405 | ORGANISATION                 | ICAR-National Institute of High Security Animal Diseases (NIHSAD)
+406 | ORGANISATION                 | National Institute of Ocean Technology (NIOT)
+407 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone III
+408 | ORGANISATION                 | ICAR-Central Institute of Subtropical Horticulture (CISH)
+409 | ORGANISATION                 | National Institute of Social Defence
+410 | ORGANISATION                 | National Institute of Animal Biotechnology (NIAB)
+411 | ORGANISATION                 | India Meteorological Department (IMD)
+412 | ORGANISATION                 | National Company Law Tribunal (NCLT)
+413 | ORGANISATION                 | National Commission for Indian System of Medicine
+414 | ORGANISATION                 | ICMR-National Institute for Pre-Clinical Research
+415 | ORGANISATION                 | ICMR-National Institute of NCDs Epidemiology
+416 | ORGANISATION                 | Electronics Corporation of India Limited (ECIL)
+417 | ORGANISATION                 | National Institute of Mental Health and Neuro Sciences
+418 | ORGANISATION                 | Technology Development Board (TDB)
+419 | ORGANISATION                 | NIT Agartala
+420 | ORGANISATION                 | ICAR-Indian Institute of Oilseeds Research (IIOR)
+421 | ORGANISATION                 | ICAR-National Research Centre on Camel (NRCC)
+422 | ORGANISATION                 | ICMR-Regional Medical Research Centre Bhubaneswar
+423 | ORGANISATION                 | Airport Authority of India (AAI)
+424 | ORGANISATION                 | UGC - Deemed Universities Directory
+425 | ORGANISATION                 | ICAR-Directorate of Floricultural Research (DFR)
+426 | ORGANISATION                 | ICAR-National Institute for Research on Commercial Agriculture (NIRCA)
+427 | ORGANISATION                 | ICMR-National Institute of One Health
+428 | ORGANISATION                 | AIIMS Madurai
+429 | ORGANISATION                 | Python
+430 | ORGANISATION                 | Housing and Urban Development Corporation (HUDCO)
+431 | ORGANISATION                 | Hindustan Copper Limited
+432 | ORGANISATION                 | Mahanadi Coalfields Limited
+433 | ORGANISATION                 | ICAR-Agricultural Technology Application Research Institute Zone IV
+434 | ORGANISATION                 | ICAR-National Research Centre on Mithun (NRCM)
+435 | ORGANISATION                 | ICAR-Directorate of Cashew Research (DCR)
+436 | ORGANISATION                 | National Portal of India - Public Utilities Directory
+437 | ORGANISATION                 | ICMR-Bhopal Memorial Hospital & Research Centre
+438 | ORGANISATION                 | Bharat Petroleum Corporation Limited (BPCL)
+439 | ORGANISATION                 | Indian National Academy of Engineering
+440 | ORGANISATION                 | Digital
+441 | ORGANISATION                 | Biotechnology Industry Research Assistance Council (BIRAC)
+442 | ORGANISATION                 | ICAR-Indian Institute of Rapeseed Mustard Research (IIRMR)
+443 | ORGANISATION                 | Institute of Bioresources and Sustainable Development (IBSD)
+444 | ORGANISATION                 | AIIMS Bathinda
+445 | ORGANISATION                 | Hindustan Petroleum Corporation Limited (HPCL)
+446 | ORGANISATION                 | Ministry of Corporate Affairs
+447 | ORGANISATION                 | National Mission on Education through ICT
+448 | ORGANISATION                 | National Commission for Backward Classes
+449 | ORGANISATION                 | National Institute of Disaster Management
+450 | ORGANISATION                 | Ministry of Tribal Affairs
+451 | HIRING_QUERY                 | `site:gov.in recruitment`
+452 | ORGANISATION                 | [DBT Autonomous Institutes](https://dbtindia.gov.in/sites/default/files/uploadfiles/AUTONOMISOUS_INSTITUE.pdf)
+453 | HIRING_QUERY                 | `site:gov.in "young professional"`
+454 | ORGANISATION                 | National Informatics Centre Technology Incubation Centre
+455 | ORGANISATION                 | [ ] All sources have recurring crawl schedules and deadline-aware rechecks.
+456 | ORGANISATION                 | Nagpur Metro Rail
+457 | ORGANISATION                 | Ministry of Agriculture & Farmers Welfare
+458 | ORGANISATION                 | North Eastern Space Applications Centre (NESAC)
+459 | ORGANISATION                 | [Council of IITs](https://www.iitsystem.ac.in/facultyrecruitment)
+460 | ORGANISATION                 | [National Portal of India - Web Directory](https://www.india.gov.in/directory/web-directory)
+461 | ORGANISATION                 | `"government" "young professional" India`
+462 | HIRING_QUERY                 | `site:gov.in empanelment`
+463 | ORGANISATION                 | Ministry of Panchayati Raj
+464 | ORGANISATION                 | Department of Revenue
+465 | ORGANISATION                 | National Institute of Rural Development & Panchayati Raj
+466 | ORGANISATION                 | [ ] Phase 1 - 15 named seed universe loaded into GovernmentSource discovery.
+467 | ORGANISATION                 | Geological Survey of India (GSI)
+468 | ORGANISATION                 | Centre for Liquid Crystal Research
+469 | ORGANISATION                 | ICMR-National Institute of Immunohaematology
+470 | ORGANISATION                 | National Academy of Sciences India
+471 | ORGANISATION                 | [ ] ≥5,000 if additional legitimate sources continue to be discovered.
+472 | ORGANISATION                 | NHPC Limited
+473 | ORGANISATION                 | Council of IITs - IIT Directory
+474 | ORGANISATION                 | Defence Materials & Stores Research & Development Establishment (DMSRDE)
+475 | ORGANISATION                 | AIIMS Darbhanga
+476 | ORGANISATION                 | ICAR-Indian Institute of Soil Science (IISS)
+477 | ORGANISATION                 | NIT Hamirpur
+478 | ORGANISATION                 | ICAR-National Institute of Plant Biotechnology (NIPB)
+479 | ORGANISATION                 | National School of Drama
+480 | ORGANISATION                 | AIIMS Deoghar
+481 | ORGANISATION                 | Mazagon Dock Shipbuilders Limited
+482 | ORGANISATION                 | Ministry of External Affairs
+483 | ORGANISATION                 | CSIR-National Institute of Science Communication and Policy Research (NIScPR)
+484 | ORGANISATION                 | Central Administrative Tribunal (CAT)
+485 | ORGANISATION                 | Aeronautical Development Agency (ADA)
+486 | ORGANISATION                 | National Institute of Financial Management
+487 | ORGANISATION                 | Armament Research & Development Establishment (ARDE)
+488 | ORGANISATION                 | Ministry of Consumer Affairs
+489 | ORGANISATION                 | Open Government Data Platform India
+490 | ORGANISATION                 | National Council of Educational Research and Training
+491 | ORGANISATION                 | Research & Development Establishment (Engineers) (R&DE(E))
+492 | ORGANISATION                 | Hindustan Shipyard Limited
+493 | ORGANISATION                 | Indian Institute of Information Technology and Management Kerala
+494 | ORGANISATION                 | National Highways & Infrastructure Development Corporation (NHIDCL)
+495 | ORGANISATION                 | NIT Delhi
+496 | ORGANISATION                 | Ministry of Information & Broadcasting
+497 | ORGANISATION                 | Indian Institute of Space Science and Technology (IIST)
+498 | ORGANISATION                 | Bharat Coking Coal Limited
+499 | ORGANISATION                 | Centre for Fire, Explosive and Environment Safety (CFEES)
+500 | ORGANISATION                 | ICMR-Regional Medical Research Centre Dibrugarh
+501 | ORGANISATION                 | Ministry of Social Justice & Empowerment
+502 | ORGANISATION                 | Naval Physical & Oceanographic Laboratory (NPOL)
+503 | ORGANISATION                 | NewSpace India Limited (NSIL)
+504 | ORGANISATION                 | Ministry of Fisheries, Animal Husbandry & Dairying
+505 | ORGANISATION                 | DigiLocker
+506 | ORGANISATION                 | Ministry of Cooperation
+507 | ORGANISATION                 | Department of Financial Services
+508 | ORGANISATION                 | ICAR-Central Institute of Cotton Research (CICR)
+509 | ORGANISATION                 | NITI Aayog
+510 | ORGANISATION                 | National Housing Bank (NHB)
+511 | ORGANISATION                 | International Centre for Genetic Engineering and Biotechnology (ICGEB)
+512 | ORGANISATION                 | ICAR-Indian Institute of Agricultural Biotechnology (IIAB)
+513 | ORGANISATION                 | Central University of Karnataka
+514 | ORGANISATION                 | National Institute of Hydrology (NIH)
+515 | ORGANISATION                 | Central Ground Water Board (CGWB)
+516 | ORGANISATION                 | National Institute of Securities Markets
+517 | ORGANISATION                 | National Institute of Rural Development and Panchayati Raj
+518 | ORGANISATION                 | ICAR-Indian Institute of Sugarcane Research (IISR)
+519 | ORGANISATION                 | AIIMS Gorakhpur
+520 | ORGANISATION                 | AIIMS Guwahati
+521 | ORGANISATION                 | ISRO - Centres Directory
+522 | ORGANISATION                 | National Productivity Council
+523 | ORGANISATION                 | Bharat Dynamics Limited (BDL)
+524 | ORGANISATION                 | DST - Autonomous S&T Institutions Directory
+525 | ORGANISATION                 | IndiaAI Mission
+526 | ORGANISATION                 | National Commission for Scheduled Tribes
+527 | ORGANISATION                 | Bank of Maharashtra
+528 | ORGANISATION                 | Dedicated Freight Corridor Corporation of India
+529 | ORGANISATION                 | AIIMS Rewari
+530 | ORGANISATION                 | Lucknow Metro Rail Corporation / UPMRC
+531 | ORGANISATION                 | State Pollution Control Boards
+532 | ORGANISATION                 | Computer Science
+533 | ORGANISATION                 | Software Developer
+534 | ORGANISATION                 | Analytics
+535 | HIRING_QUERY                 | `site:gov.in engagement`
+536 | ORGANISATION                 | [ICAR Research Institutes/NRCs/Directorates](https://icar.gov.in/en/research-institutesnrcsdirectorates)
+537 | ORGANISATION                 | Young Professional
+538 | DISTRICT_TARGET              | [ ] Phase 17 every district/local-government source enumerated.
+539 | ORGANISATION                 | [Council of NITSER](https://www.nitcouncil.org.in/recruitment)
+540 | ORGANISATION                 | [ ] Phase 18 recursive child-organisation discovery completed.
+541 | ORGANISATION                 | Cybersecurity
+542 | HIRING_QUERY                 | `site:gov.in "technical consultant"`
+543 | DISCOVERY_INSTRUCTION        | Local Government Directory: Government of India Ministry of Panchayati Raj directory exposes downloads for districts, sub-districts, villages, PRIs, urban local bodies, wards and development blocks. citeturn1search3
+544 | DISCOVERY_INSTRUCTION        | IGOD Uttar Pradesh example: the official directory reports 75 district results and exposes each district's official website plus Sub Districts and Blocks links. citeturn8view0

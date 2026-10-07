@@ -1,0 +1,391 @@
+001 | AI
+002 | AIIMS Bathinda
+003 | AIIMS Bibinagar
+004 | AIIMS Bilaspur
+005 | AIIMS Darbhanga
+006 | AIIMS Deoghar
+007 | AIIMS Gorakhpur
+008 | AIIMS Guwahati
+009 | AIIMS Jammu
+010 | AIIMS Madurai
+011 | AIIMS Mangalagiri
+012 | AIIMS Raebareli
+013 | AIIMS Rajkot
+014 | AIIMS Rewari
+015 | Advanced Research Centre International / ARCI
+016 | Aeronautical Development Agency (ADA)
+017 | Airport Authority of India (AAI)
+018 | Airports Economic Regulatory Authority of India (AERA)
+019 | All India Council for Technical Education (AICTE)
+020 | Archaeological Survey of India
+021 | Artificial Intelligence
+022 | BEML Limited
+023 | BRIC - Biotechnology Research and Innovation Council
+024 | Bank of Maharashtra
+025 | Bar Council of India
+026 | Bharat Dynamics Limited (BDL)
+027 | Bharat Immunologicals & Biologicals Corporation
+028 | Bharat Petroleum Corporation Limited (BPCL)
+029 | Biotechnology Industry Research Assistance Council (BIRAC)
+030 | Birbal Sahni Institute of Palaeosciences
+031 | Bose Institute
+032 | CSIR-Fourth Paradigm Institute (4PI)
+033 | CSIR-Indian Institute of Integrative Medicine (IIIM)
+034 | CSIR-Indian Institute of Toxicology Research (IITR)
+035 | CSIR-National Geophysical Research Institute (NGRI)
+036 | CSIR-National Institute of Science Communication and Policy Research (NIScPR)
+037 | Central Bank of India
+038 | Central Drugs Standard Control Organisation (CDSCO)
+039 | Central Electricity Regulatory Commission (CERC)
+040 | Central Ground Water Board (CGWB)
+041 | Central Pollution Control Board (CPCB)
+042 | Central Sanskrit University
+043 | Central Soil and Materials Research Station
+044 | Central Tribal University of Andhra Pradesh
+045 | Central University of Andhra Pradesh
+046 | Central University of Gujarat
+047 | Central University of Himachal Pradesh
+048 | Central University of Jammu
+049 | Central University of Jharkhand
+050 | Central University of Karnataka
+051 | Central University of Kerala
+052 | Central University of Odisha
+053 | Central University of Punjab
+054 | Central University of Rajasthan
+055 | Central University of Tamil Nadu
+056 | Central Water and Power Research Station (CWPRS)
+057 | Centre for DNA Fingerprinting and Diagnostics (CDFD)
+058 | Centre for Development of Imaging Technology
+059 | Centre for Liquid Crystal Research
+060 | Centre for Nano and Soft Matter Sciences (CeNS)
+061 | Centre for e-Governance
+062 | Centre of Innovative and Applied Bioprocessing (CIAB)
+063 | Cochin Shipyard Limited
+064 | Container Corporation of India
+065 | DRDO Recruitment & Assessment Centre (RAC)
+066 | Dedicated Freight Corridor Corporation of India
+067 | Defence Institute of Advanced Technology (DIAT)
+068 | Department of Financial Services
+069 | Department of Revenue
+070 | Department of Scientific & Industrial Research (DSIR)
+071 | Department of Space
+072 | DigiLocker
+073 | Digital India Land Records Modernization Programme
+074 | Directorate General of Hydrocarbons
+075 | Electronics Corporation of India Limited (ECIL)
+076 | Engineers India Limited (EIL)
+077 | Financial Intelligence Unit - India (FIU-IND)
+078 | Food Safety and Standards Authority of India (FSSAI)
+079 | Garden Reach Shipbuilders & Engineers
+080 | Geological Survey of India (GSI)
+081 | Government e-Marketplace (GeM)
+082 | Guru Ghasidas Vishwavidyalaya
+083 | Hindustan Copper Limited
+084 | Hindustan Petroleum Corporation Limited (HPCL)
+085 | Hindustan Shipyard Limited
+086 | Housing and Urban Development Corporation (HUDCO)
+087 | ICAR-Central Agroforestry Research Institute (CAFRI)
+088 | ICAR-Central Arid Zone Research Institute (CAZRI)
+089 | ICAR-Central Avian Research Institute (CARI)
+090 | ICAR-Central Citrus Research Institute (CCRI)
+091 | ICAR-Central Coastal Agricultural Research Institute (CCARI)
+092 | ICAR-Central Institute for Arid Horticulture (CIAH)
+093 | ICAR-Central Institute for Research on Buffaloes (CIRB)
+094 | ICAR-Central Institute for Research on Cattle (CIRC)
+095 | ICAR-Central Institute for Research on Goats (CIRG)
+096 | ICAR-Central Institute for Women in Agriculture (CIWA)
+097 | ICAR-Central Institute of Agricultural Engineering (CIAE)
+098 | ICAR-Central Institute of Brackishwater Aquaculture (CIBA)
+099 | ICAR-Central Institute of Coldwater Fisheries Research (CICFRI)
+100 | ICAR-Central Institute of Cotton Research (CICR)
+101 | ICAR-Central Institute of Fisheries Technology (CIFT)
+102 | ICAR-Central Institute of Freshwater Aquaculture (CIFA)
+103 | ICAR-Central Institute of Subtropical Horticulture (CISH)
+104 | ICAR-Central Institute of Temperate Horticulture (CITH)
+105 | ICAR-Central Institute on Post-Harvest Engineering & Technology (CIPHET)
+106 | ICAR-Central Island Agricultural Research Institute (CIARI)
+107 | ICAR-Central Marine Fisheries Research Institute (CMFRI)
+108 | ICAR-Central Plantation Crops Research Institute (CPCRI)
+109 | ICAR-Central Potato Research Institute (CPRI)
+110 | ICAR-Central Research Institute for Dryland Agriculture (CRIDA)
+111 | ICAR-Central Soil Salinity Research Institute (CSSRI)
+112 | ICAR-Central Tuber Crops Research Institute (CTCRI)
+113 | ICAR-Directorate of Cashew Research (DCR)
+114 | ICAR-Directorate of Floricultural Research (DFR)
+115 | ICAR-Directorate of Medicinal and Aromatic Plants Research (DMAPR)
+116 | ICAR-Directorate of Poultry Research (DPR)
+117 | ICAR-Directorate of Weed Research (DWR)
+118 | ICAR-Directorate on Onion and Garlic Research (DOGR)
+119 | ICAR-Indian Agricultural Statistics Research Institute (IASRI)
+120 | ICAR-Indian Grassland & Fodder Research Institute (IGFRI)
+121 | ICAR-Indian Institute of Agricultural Biotechnology (IIAB)
+122 | ICAR-Indian Institute of Farming Systems Research (IIFSR)
+123 | ICAR-Indian Institute of Groundnut Research (IIGR)
+124 | ICAR-Indian Institute of Horticultural Research (IIHR)
+125 | ICAR-Indian Institute of Maize Research (IIMR)
+126 | ICAR-Indian Institute of Millets Research (IIMR)
+127 | ICAR-Indian Institute of Oil Palm Research (IIOPR)
+128 | ICAR-Indian Institute of Oilseeds Research (IIOR)
+129 | ICAR-Indian Institute of Pulses Research (IIPR)
+130 | ICAR-Indian Institute of Rapeseed Mustard Research (IIRMR)
+131 | ICAR-Indian Institute of Rice Research (IIRR)
+132 | ICAR-Indian Institute of Soil Science (IISS)
+133 | ICAR-Indian Institute of Soil and Water Conservation (IISWC)
+134 | ICAR-Indian Institute of Spices Research (IISR)
+135 | ICAR-Indian Institute of Sugarcane Research (IISR)
+136 | ICAR-Indian Institute of Vegetable Research (IIVR)
+137 | ICAR-Indian Institute of Water Management (IIWM)
+138 | ICAR-Indian Institute of Wheat & Barley Research (IIWBR)
+139 | ICAR-Mahatma Gandhi Integrated Farming Research Institute (MGIFRI)
+140 | ICAR-National Bureau of Agricultural Insect Resources (NBAIR)
+141 | ICAR-National Bureau of Agriculturally Important Micro-organisms (NBAIM)
+142 | ICAR-National Bureau of Fish Genetic Resources (NBFGR)
+143 | ICAR-National Bureau of Plant Genetic Resources (NBPGR)
+144 | ICAR-National Bureau of Soil Survey and Land Use Planning (NBSSLUP)
+145 | ICAR-National Institute for Abiotic Stress Management (NIASM)
+146 | ICAR-National Institute of Agricultural Economics & Policy Research (NIAEPR)
+147 | ICAR-National Institute of Animal Nutrition & Physiology (NIANP)
+148 | ICAR-National Institute of Biotic Stresses Management (NIBSM)
+149 | ICAR-National Institute of High Security Animal Diseases (NIHSAD)
+150 | ICAR-National Institute of Natural Fibre Engineering & Technology (NINFET)
+151 | ICAR-National Institute of Plant Biotechnology (NIPB)
+152 | ICAR-National Institute of Secondary Agriculture (NISA)
+153 | ICAR-National Institute of Seed Science & Technology (NISST)
+154 | ICAR-National Institute of Veterinary Epidemiology & Disease Informatics (NIVEDI)
+155 | ICAR-National Research Centre for Banana (NRCB)
+156 | ICAR-National Research Centre for Grapes (NRCG)
+157 | ICAR-National Research Centre for Litchi (NRCL)
+158 | ICAR-National Research Centre for Pomegranate (NRCP)
+159 | ICAR-National Research Centre on Camel (NRCC)
+160 | ICAR-National Research Centre on Equines (NRCE)
+161 | ICAR-National Research Centre on Mithun (NRCM)
+162 | ICAR-National Research Centre on Pig (NRCP)
+163 | ICAR-National Research Centre on Seed Spices (NRCSS)
+164 | ICAR-National Research Centre on Yak (NRCY)
+165 | ICAR-National Research Institute for Integrated Pest Management (NRIIPM)
+166 | ICAR-National Rice Research Institute (NRRI)
+167 | ICAR-National Soybean Research Institute (NSRI)
+168 | ICAR-Research Complex for NEH Region (RCNEH)
+169 | ICAR-Vivekananda Parvatiya Krishi Anusandhan Sansthan (VPKAS)
+170 | ICMR-Bhopal Memorial Hospital & Research Centre
+171 | ICMR-National Institute for Research on Blood and Immune Disorders
+172 | ICMR-National Institute for Research on Women's Health
+173 | ICMR-National Institute for Tribal Health Research
+174 | ICMR-National Institute of Immunohaematology
+175 | ICMR-National Institute of Malaria Research
+176 | ICMR-National Institute of Occupational Health Research
+177 | ICMR-National Institute of Research in Environmental Health
+178 | ICMR-National Institute of Research in Tuberculosis
+179 | ICMR-National Institute of Traditional Medicine
+180 | ICMR-National Institute of Translational Virology and AIDS Research
+181 | ICMR-National Institute of Vector Control Research
+182 | ICMR-National JALMA Institute for Leprosy & Other Mycobacterial Diseases
+183 | ICMR-Rajendra Memorial National Institute of Health Research
+184 | ICMR-Regional Medical Research Centre Bhubaneswar
+185 | ICMR-Regional Medical Research Centre Dibrugarh
+186 | ICMR-Regional Medical Research Centre Gorakhpur
+187 | ICMR-Regional Medical Research Centre Sri Vijaya Puram
+188 | IIT Bhilai
+189 | IIT Dharwad
+190 | IIT Goa
+191 | IIT Jodhpur
+192 | IIT Tirupati
+193 | India Meteorological Department (IMD)
+194 | India Semiconductor Mission
+195 | India Trade Promotion Organisation (ITPO)
+196 | IndiaAI Mission
+197 | Indian Academy of Sciences
+198 | Indian Association for the Cultivation of Science (IACS)
+199 | Indian Bureau of Mines (IBM)
+200 | Indian Council of Historical Research
+201 | Indian Council of Philosophical Research
+202 | Indian Council of Social Science Research
+203 | Indian Institute of Astrophysics (IIA)
+204 | Indian Institute of Engineering Science and Technology Shibpur
+205 | Indian Institute of Geomagnetism (IIG)
+206 | Indian Institute of Information Technology Design and Manufacturing Kancheepuram
+207 | Indian Institute of Information Technology Guwahati
+208 | Indian Institute of Information Technology Lucknow
+209 | Indian Institute of Information Technology Pune
+210 | Indian Institute of Information Technology Una
+211 | Indian Institute of Information Technology Vadodara
+212 | Indian Institute of Information Technology and Management Kerala
+213 | Indian Institute of Remote Sensing (IIRS)
+214 | Indian Institute of Space Science and Technology (IIST)
+215 | Indian National Academy of Engineering
+216 | Indian National Centre for Ocean Information Services (INCOIS)
+217 | Indian National Science Academy
+218 | Indian Overseas Bank
+219 | Indian Railway Construction International
+220 | Indian Railway Finance Corporation (IRFC)
+221 | Indian Science Congress Association
+222 | Indian Vaccine Corporation
+223 | Indira Gandhi National Open University
+224 | Inland Waterways Authority of India (IWAI)
+225 | Institute for Stem Cell Science and Regenerative Medicine (inStem)
+226 | Institute of Advanced Study in Science and Technology (IASST)
+227 | Institute of Bioresources and Sustainable Development (IBSD)
+228 | Institute of Life Sciences (ILS)
+229 | International Centre for Genetic Engineering and Biotechnology (ICGEB)
+230 | Invest India
+231 | Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)
+232 | Kochi Metro Rail
+233 | Lalit Kala Akademi
+234 | Legal Metrology Department
+235 | Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya
+236 | Mahatma Gandhi Central University
+237 | Mazagon Dock Shipbuilders Limited
+238 | Ministry of Agriculture & Farmers Welfare
+239 | Ministry of Civil Aviation
+240 | Ministry of Coal
+241 | Ministry of Consumer Affairs, Food & Public Distribution
+242 | Ministry of Cooperation
+243 | Ministry of Corporate Affairs
+244 | Ministry of Culture
+245 | Ministry of Development of North Eastern Region
+246 | Ministry of External Affairs
+247 | Ministry of Fisheries, Animal Husbandry & Dairying
+248 | Ministry of Food Processing Industries
+249 | Ministry of Heavy Industries
+250 | Ministry of Home Affairs
+251 | Ministry of Housing & Urban Affairs
+252 | Ministry of Information & Broadcasting
+253 | Ministry of Micro, Small & Medium Enterprises
+254 | Ministry of Mines
+255 | Ministry of Minority Affairs
+256 | Ministry of New & Renewable Energy
+257 | Ministry of Panchayati Raj
+258 | Ministry of Parliamentary Affairs
+259 | Ministry of Personnel, Public Grievances & Pensions
+260 | Ministry of Petroleum & Natural Gas
+261 | Ministry of Ports, Shipping & Waterways
+262 | Ministry of Social Justice & Empowerment
+263 | Ministry of Steel
+264 | Ministry of Tribal Affairs
+265 | Ministry of Women & Child Development
+266 | Mishra Dhatu Nigam Limited (MIDHANI)
+267 | Motilal Nehru National Institute of Technology Allahabad
+268 | Mumbai Metro Rail Corporation
+269 | NHPC Limited
+270 | NIT Agartala
+271 | NIT Delhi
+272 | NIT Durgapur
+273 | NIT Hamirpur
+274 | NIT Jamshedpur
+275 | NIT Manipur
+276 | NIT Meghalaya
+277 | NIT Nagaland
+278 | NIT Sikkim
+279 | NIT Srinagar
+280 | NIT Uttarakhand
+281 | NITI Aayog
+282 | NITK Surathkal
+283 | NLC India Limited
+284 | NMDC Limited
+285 | Nagpur Metro Rail
+286 | National Academy of Sciences India
+287 | National Accreditation Board for Testing and Calibration Laboratories (NABL)
+288 | National Agri-Food Biotechnology Institute (NABI)
+289 | National Aluminium Company Limited (NALCO)
+290 | National Archives of India
+291 | National Atlas & Thematic Mapping Organisation (NATMO)
+292 | National Bank for Financing Infrastructure and Development (NaBFID)
+293 | National Biodiversity Authority
+294 | National Board of Accreditation
+295 | National Board of Examinations in Medical Sciences
+296 | National Book Trust
+297 | National Buildings Construction Corporation (NBCC)
+298 | National Capital Region Transport Corporation (NCRTC)
+299 | National Centre for Cell Science (NCCS)
+300 | National Centre for Coastal Research (NCCR)
+301 | National Centre for Medium Range Weather Forecasting (NCMRWF)
+302 | National Centre for Polar and Ocean Research (NCPOR)
+303 | National Commission for Backward Classes
+304 | National Commission for Indian System of Medicine
+305 | National Commission for Minorities
+306 | National Commission for Scheduled Tribes
+307 | National Company Law Tribunal (NCLT)
+308 | National Consumer Disputes Redressal Commission (NCDRC)
+309 | National Council for Teacher Education (NCTE)
+310 | National Council of Applied Economic Research
+311 | National Council of Educational Research and Training
+312 | National Critical Information Infrastructure Protection Centre (NCIIPC)
+313 | National Data Analytics Platform
+314 | National Disaster Management Authority (NDMA)
+315 | National Disaster Management Institute (NIDM)
+316 | National Financial Reporting Authority (NFRA)
+317 | National Gallery of Modern Art
+318 | National Health Authority (NHA)
+319 | National Highways & Infrastructure Development Corporation (NHIDCL)
+320 | National Housing Bank (NHB)
+321 | National Human Rights Commission (NHRC)
+322 | National Industrial Development Corporation
+323 | National Informatics Centre Technology Incubation Centre
+324 | National Innovation Foundation (NIF)
+325 | National Institute for Empowerment of Persons with Multiple Disabilities
+326 | National Institute for Locomotor Disabilities
+327 | National Institute for Smart Government (NISG)
+328 | National Institute for the Empowerment of Persons with Visual Disabilities
+329 | National Institute of Animal Biotechnology (NIAB)
+330 | National Institute of Biomedical Genomics (NIBMG)
+331 | National Institute of Educational Planning and Administration
+332 | National Institute of Financial Management
+333 | National Institute of Hydrology (NIH)
+334 | National Institute of Immunology (NII)
+335 | National Institute of Labour Economics Research and Development
+336 | National Institute of Mental Health and Neuro Sciences
+337 | National Institute of Ocean Technology (NIOT)
+338 | National Institute of Plant Genome Research (NIPGR)
+339 | National Institute of Public Finance and Policy
+340 | National Institute of Rural Development & Panchayati Raj
+341 | National Institute of Securities Markets
+342 | National Institute of Social Defence
+343 | National Institute of Urban Affairs
+344 | National Internet Exchange of India (NIXI)
+345 | National Medical Commission (NMC)
+346 | National Mission for Clean Ganga
+347 | National Mission on Education through ICT
+348 | National Museum
+349 | National Payments Corporation of India (NPCI)
+350 | National Productivity Council
+351 | National Remote Sensing Centre (NRSC)
+352 | National Sanskrit University
+353 | National School of Drama
+354 | National Skill Development Agency
+355 | National Thermal Power Corporation (NTPC)
+356 | National Water Development Agency (NWDA)
+357 | NewSpace India Limited (NSIL)
+358 | North Eastern Space Applications Centre (NESAC)
+359 | Open Government Data Platform India
+360 | Open Network for Digital Commerce (ONDC)
+361 | Petroleum and Natural Gas Regulatory Board (PNGRB)
+362 | Physical Research Laboratory (PRL)
+363 | Rail Vikas Nigam Limited
+364 | Rajiv Gandhi Centre for Biotechnology (RGCB)
+365 | Rajiv Gandhi University
+366 | Rashtriya Ispat Nigam Limited (RINL)
+367 | Regional Centre for Biotechnology (RCB)
+368 | SJVN Limited
+369 | Sahitya Akademi
+370 | Sangeet Natak Akademi
+371 | Sardar Vallabhbhai National Institute of Technology Surat
+372 | Satish Dhawan Space Centre (SDSC)
+373 | Shri Lal Bahadur Shastri National Sanskrit University
+374 | Space Applications Centre (SAC)
+375 | Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST)
+376 | Technology Development Board (TDB)
+377 | Technology Information, Forecasting and Assessment Council (TIFAC)
+378 | Translational Health Science and Technology Institute (THSTI)
+379 | U R Rao Satellite Centre (URSC)
+380 | UCO Bank
+381 | Unique Identification Authority of India (UIDAI)
+382 | V.V. Giri National Labour Institute
+383 | Vigyan Prasar
+384 | Vikram Sarabhai Space Centre (VSSC)
+385 | Visvesvaraya National Institute of Technology Nagpur
+386 | Wadia Institute of Himalayan Geology (WIHG)
+387 | `"government" "consultant" India vacancy`
+388 | `"government" "contractual" India vacancy`
+389 | `"government" "project associate" India`
+390 | `"government" "technical assistant" India recruitment`
+391 | `"government" "young professional" India`

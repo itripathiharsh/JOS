@@ -272,6 +272,8 @@ def extract_government_fields(text: str) -> Dict[str, Any]:
         "remuneration": remuneration,
         "contract_duration": fields.get("contract_duration"),
         "age_limit": fields.get("age_limit"),
+        "application_deadline": fields.get("application_deadline"),
+        "deadline": fields.get("application_deadline"),
         "application_email": fields.get("application_email"),
         "selection_process": fields.get("selection_process"),
         "employment_type": emp_type,
